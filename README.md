@@ -1,14 +1,6 @@
-# samboni.github.io
+#### samboni.github.io
 
 # Scientist in Chemistry, Data Science
-
-## Technical Skills
-
-- **Operating Systems:** Proficient in Linux with extensive experience in Python and Bash programming.
-- **Data Analysis & Visualization Tools:** Skilled in NumPy, SciPy, pandas, scikit-learn, Seaborn, Matplotlib, JupyterLab, Google Colab, Conda, and Visual Studio.
-- **Windows Software:** Proficient in Excel, MS Office Suite, and PowerPoint.
-- **Document Preparation & Design Tools:** Advanced proficiency in LaTeX for document preparation and Inkscape for professional image editing and advertisement creation.
-
 
 ## Education
 - Ph.D., Chemistry | Universidad Nacional de Córdoba, Argentina (_2024_)								       		
@@ -96,4 +88,21 @@
 | 11.2021     | Meeting: *V Meeting of YIB (Virtual)*                                                                      | Member of the organizing committee          | Argentina                    |
 | 12.2018     | Congress: *XLVII Annual Meeting of the SAB*                                                                | Poster                                      | La Plata, Argentina          |
 
+## Skills and Abilities
 
+### Technical Skills
+
+- **Biophysics**:  
+  Brewster angle microscopy (BAM), differential scanning calorimetry (DSC), Langmuir monolayers, time-correlated single photon counting (TCSPC), fluorescence spectroscopy, dynamic light scattering (DLS), UV/Vis spectroscopy, ATR-FTIR spectroscopy, silver protein staining, ÄKTA FPLC, size exclusion, HPLC, SDS-PAGE electrophoresis, preparation of multilamellar vesicles (MLVs) and unilamellar vesicles (SUVs).
+
+  - **Protein expression and purification**:  
+  Bacterial transformation, plasmid extraction, bacteria lysis, production of recombinant proteins and peptides.
+ 
+- **Molecular Dynamic Simulation**:  
+  Gromacs, Visual Molecular Dynamics (VMD), CHARMM-GUI, MDAnalysis, Gaussian 16, NBO 6.0.
+
+- **Operating Systems:** Proficient in Linux with extensive experience in Python and Bash programming.
+- **Data Analysis & Visualization Tools:** Skilled in NumPy, SciPy, pandas, scikit-learn, Seaborn, Matplotlib, JupyterLab, Google Colab, Conda, and Visual Studio.
+- **Windows Software:** Proficient in Excel, MS Office Suite, and PowerPoint.
+- **Document Preparation & Design Tools:** Advanced proficiency in LaTeX for document preparation and Inkscape for professional image editing and advertisement creation.
+- - **Others**: GitHub, Fiji ImageJ, GIMP.
