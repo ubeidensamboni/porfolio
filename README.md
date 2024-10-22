@@ -83,5 +83,17 @@
 - **2017:** Meritorious mention for the degree work: *"Some Structural, Electronic and Vibrational Properties of Phosphine Diphenyl[2-(2-Pyridylaminomethyl)-Phenyl] Oxide. A Quantum Chemical Study"*.  
   Facultad de Ciencias Básicas y Tecnologías, Universidad del Quindío; Colombia.
 
+## Congress and Conferences
+
+| Date        | Event                                                                                                      | Role                                        | Location                    |
+|-------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------------------|
+| 11.2023     | Congress: *LI Annual Meeting of the SAB*                                                                   | Attendance                                 | Córdoba, Argentina           |
+| 11.2023     | Meeting: *VII Meeting of YIB*                                                                              | Member of the organizing committee          | Córdoba, Argentina           |
+| 03.2023     | Conference: *Physics of Life 2023*                                                                         | Poster                                      | Harrogate, Yorkshire, UK     |
+| 11.2022     | Congress: *L Annual Meeting of the SAB*                                                                    | Attendance                                 | Rosario, Argentina           |
+| 11.2022     | Meeting: *VI Meeting of YIB*                                                                               | Member of the organizing committee          | Rosario, Argentina           |
+| 12.2021     | Congress: *IL Annual Meeting of the SAB (Virtual)*                                                         | Attendance                                 | Argentina                    |
+| 11.2021     | Meeting: *V Meeting of YIB (Virtual)*                                                                      | Member of the organizing committee          | Argentina                    |
+| 12.2018     | Congress: *XLVII Annual Meeting of the SAB*                                                                | Poster                                      | La Plata, Argentina          |
 
 
