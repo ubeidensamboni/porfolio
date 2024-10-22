@@ -1,5 +1,3 @@
-#### samboni.github.io
-
 # Scientist in Chemistry, Data Science
 
 ## Education
