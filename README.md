@@ -1,4 +1,4 @@
-# Scientist in Chemistry, Data Science
+# Chemistry Scientist
 
 ## Education
 - **2024**      Ph.D., Chemistry - Universidad Nacional de Córdoba, Argentina     		
