@@ -3,7 +3,6 @@
 # # #description: text below image
 #  show_downloads: true
 #  theme: jekyll-theme-minimal
-
 ---
 title: Ubeiden Samboni
 logo: imag/avatar.png
@@ -11,14 +10,12 @@ show_downloads: true
 theme: jekyll-theme-minimal
 ---
 
- Ubeiden Samboni
+# Ubeiden Samboni
 
 ![My Avatar](imag/avatar.png)
 
-<!-- Download CV -->
 [Download my CV <i class="fas fa-file-pdf"></i>](https://github.com/ubeidensamboni/curriculum-vitae/blob/main/pdf/FullCV_Ubeiden.pdf)
 
-<!-- Social Media Links -->
 <div class="social-icons">
     <a href="https://github.com/ubeidensamboni" target="_blank">
         <i class="fab fa-github fa-2x"></i>
@@ -27,3 +24,21 @@ theme: jekyll-theme-minimal
         <i class="fab fa-linkedin fa-2x"></i>
     </a>
 </div>
+
+<style>
+    .social-icons {
+        display: flex;
+        justify-content: center;
+        gap: 15px; /* Spacing between icons */
+    }
+
+    .social-icons i {
+        color: #333; /* Icon color */
+        transition: color 0.3s;
+    }
+
+    .social-icons i:hover {
+        color: #007bff; /* Change color on hover */
+    }
+</style>
+
