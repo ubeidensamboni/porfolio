@@ -1,9 +1,9 @@
 # Scientist in Chemistry, Data Science
 
 ## Education
-- Ph.D., Chemistry | Universidad Nacional de Córdoba, Argentina (_2024_)								       		
-- Diploma, Data Science	| Universidad Nacional de Córdoba, Argentina (_2023_)			        		
-- B.S., Chemistry | Universidad del Quindío, Colombia (_2017_)
+- **2024** |   Ph.D., Chemistry | Universidad Nacional de Córdoba, Argentina     		
+- **2023** |   Diploma in Data Science	| Universidad Nacional de Córdoba, Argentina		        		
+- **2027** |   B.S., Chemistry | Universidad del Quindío, Colombia
 
 ## Work Experience
 **Assistant Teacher @ Faculty of Chemistry, Universidad Nacional de Córdoba,(_August 2019 - April 2024_)**
