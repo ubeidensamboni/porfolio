@@ -90,9 +90,7 @@
 
 ## Skills and Abilities
 
-### Technical Skills
-
- - **Protein expression and purification**:  
+- **Protein expression and purification**:  
   Bacterial transformation, plasmid extraction, bacteria lysis, production of recombinant proteins and peptides.
 
 - **Biophysics**:  
@@ -106,3 +104,22 @@
 - **Windows Software:** Proficient in Excel, MS Office Suite, and PowerPoint.
 - **Document Preparation & Design Tools:** Advanced proficiency in LaTeX for document preparation and Inkscape for professional image editing and advertisement creation.
 - **Others**: GitHub, Fiji ImageJ, GIMP.
+
+## Miscellaneous
+
+### Membership Scientific Society
+
+- **2020 - 2023**: [YIB (Young Initiative on Biophysics)](https://secretariayib.wixsite.com/ybiophysics)
+- **2018 - 2024**: [SAB (Sociedad Argentina de Biofísica)](https://biofisica.org.ar/young-initiative-on-biophysics-2019/)
+
+### Student Project Supervision
+
+Undergraduate Research Assistantship (URA) undergraduates work about 6-8 hours/week for a term on a research project.
+
+- **06.2023 - 12.2023**: Alexander García. *Molecular Dynamic Simulation: Transmembrane Proteins*. URA student, Universidad Nacional de Córdoba (UNC), Argentina.
+
+### Languages
+
+- **Spanish**: Native  
+- **English**: Pearson PTE
+
