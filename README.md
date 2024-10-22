@@ -92,12 +92,12 @@
 
 ### Technical Skills
 
+ - **Protein expression and purification**:  
+  Bacterial transformation, plasmid extraction, bacteria lysis, production of recombinant proteins and peptides.
+
 - **Biophysics**:  
   Brewster angle microscopy (BAM), differential scanning calorimetry (DSC), Langmuir monolayers, time-correlated single photon counting (TCSPC), fluorescence spectroscopy, dynamic light scattering (DLS), UV/Vis spectroscopy, ATR-FTIR spectroscopy, silver protein staining, ÄKTA FPLC, size exclusion, HPLC, SDS-PAGE electrophoresis, preparation of multilamellar vesicles (MLVs) and unilamellar vesicles (SUVs).
-
-  - **Protein expression and purification**:  
-  Bacterial transformation, plasmid extraction, bacteria lysis, production of recombinant proteins and peptides.
- 
+  
 - **Molecular Dynamic Simulation**:  
   Gromacs, Visual Molecular Dynamics (VMD), CHARMM-GUI, MDAnalysis, Gaussian 16, NBO 6.0.
 
@@ -105,4 +105,4 @@
 - **Data Analysis & Visualization Tools:** Skilled in NumPy, SciPy, pandas, scikit-learn, Seaborn, Matplotlib, JupyterLab, Google Colab, Conda, and Visual Studio.
 - **Windows Software:** Proficient in Excel, MS Office Suite, and PowerPoint.
 - **Document Preparation & Design Tools:** Advanced proficiency in LaTeX for document preparation and Inkscape for professional image editing and advertisement creation.
-- - **Others**: GitHub, Fiji ImageJ, GIMP.
+- **Others**: GitHub, Fiji ImageJ, GIMP.
