@@ -49,11 +49,18 @@
 
 ## Internships
 
-| Duration           | Institution                                                                                      | Supervisor                                  |
-|--------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------|
-| 02.2024 - 05.2024  | Department of Physics, King's College London, UK                                                  | Prof. Christian D. Lorenz ([chris.lorenz@kcl.ac.uk](mailto:chris.lorenz@kcl.ac.uk)) |
-| 01.2023 - 05.2023  | Department of Chemistry, King's College London, UK                                                | Prof. Martin Ulmschneider ([martin.ulmschneider@kcl.ac.uk](mailto:martin.ulmschneider@kcl.ac.uk)) |
-| 08.2022 - 09.2022  | Instituto Interdisciplinario de las Ciencias, Universidad Nacional de Cuyo, Mendoza, Argentina     | Dr. Vanesa V. Galassi ([vanegalassi@gmail.com](mailto:vanegalassi@gmail.com))     |
+- **02.2024 - 05.2024**  
+  Department of Physics, King's College London, UK  
+  Supervisor: Prof. Christian D. Lorenz ([chris.lorenz@kcl.ac.uk](mailto:chris.lorenz@kcl.ac.uk))
+
+- **01.2023 - 05.2023**  
+  Department of Chemistry, King's College London, UK  
+  Supervisor: Prof. Martin Ulmschneider ([martin.ulmschneider@kcl.ac.uk](mailto:martin.ulmschneider@kcl.ac.uk))
+
+- **08.2022 - 09.2022**  
+  Instituto Interdisciplinario de las Ciencias, Universidad Nacional de Cuyo, Mendoza, Argentina  
+  Supervisor: Dr. Vanesa V. Galassi ([vanegalassi@gmail.com](mailto:vanegalassi@gmail.com))
+
 
 
 ## Fellowships and Rewards
