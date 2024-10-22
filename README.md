@@ -58,13 +58,23 @@
 
 ## Fellowships and Rewards
 
-| Duration           | Award/Description                                                                                                   | Institution/Location                                
-|--------------------|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
- 2023               | IUPAB bursaries to attend international conferences: *"Physics of Life 2023"*                                       | International Union for Pure and Applied Biophysics (IUPAB); Harrogate, Yorkshire, UK 
- 2022               | IUPAB bursaries to attend international conferences: *"L Annual Meeting of the SAB"*                                | International Union for Pure and Applied Biophysics (IUPAB); Rosario, Argentina 
-| 2021 - 2024        | End of PhD Fellowships                                                                                              | National Scientific and Technical Research Council - CONICET; Argentina 
- 2020 - 2023        | Scholarship-Loan COLFUTURO                                                                                          | National Colombian Government; Colombia |
- 2018 - 2021        | Beginning PhD Fellowship                                                                                            | National Fund for Science and Technology - FONCyT; Argentina 
- 2017               | Meritorious mention for the degree work: *"Some Structural, Electronic and Vibrational Properties of Phosphine..."*  | Facultad de Ciencias Básicas y Tecnologías, Universidad del Quindío; Colombia 
+- **2023:** IUPAB bursaries to attend international conferences: *"Physics of Life 2023"*.  
+  International Union for Pure and Applied Biophysics (IUPAB); Harrogate, Yorkshire, UK.
+
+- **2022:** IUPAB bursaries to attend international conferences: *"L Annual Meeting of the SAB"*.  
+  International Union for Pure and Applied Biophysics (IUPAB); Rosario, Argentina.
+
+- **2021 - 2024:** End of PhD Fellowships.  
+  National Scientific and Technical Research Council - CONICET; Argentina.
+
+- **2020 - 2023:** Scholarship-Loan COLFUTURO.  
+  National Colombian Government; Colombia.
+
+- **2018 - 2021:** Beginning PhD Fellowship.  
+  National Fund for Science and Technology - FONCyT; Argentina.
+
+- **2017:** Meritorious mention for the degree work: *"Some Structural, Electronic and Vibrational Properties of Phosphine Diphenyl[2-(2-Pyridylaminomethyl)-Phenyl] Oxide. A Quantum Chemical Study"*.  
+  Facultad de Ciencias Básicas y Tecnologías, Universidad del Quindío; Colombia.
+
 
 
