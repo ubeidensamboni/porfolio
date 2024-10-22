@@ -14,14 +14,14 @@ theme: jekyll-theme-minimal
 
 ![My Avatar](imag/avatar.png)
 
-[Download my CV (PDF)](link_to_your_cv.pdf)
+[Download my CV (PDF)](lhttps://github.com/ubeidensamboni/cv/blob/main/FullCV_Ubeiden.pdf)
 
 <!-- Social Media Links -->
 <div>
-    <a href="https://github.com/your-github-username" target="_blank">
+    <a href="https://github.com/ubeidensamboni" target="_blank">
         <i class="fab fa-github fa-2x"></i>
     </a>
-    <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+    <a href="https://www.linkedin.com/in/samboni-0812b1196/" target="_blank">
         <i class="fab fa-linkedin fa-2x"></i>
     </a>
 </div>
