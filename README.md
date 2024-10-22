@@ -46,3 +46,25 @@
 | 02.2015 - 06.2015 | Advanced spectroscopy methods                                                     | *Universidad del Quindío, Colombia*          | 80    |
 | 02.2015 - 06.2015 | Computational chemistry                                                          | *Universidad del Quindío, Colombia*          | 80    |
 
+
+## Internships
+
+| Duration           | Institution                                                                                      | Supervisor                                  |
+|--------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------|
+| 02.2024 - 05.2024  | Department of Physics, King's College London, UK                                                  | Prof. Christian D. Lorenz ([chris.lorenz@kcl.ac.uk](mailto:chris.lorenz@kcl.ac.uk)) |
+| 01.2023 - 05.2023  | Department of Chemistry, King's College London, UK                                                | Prof. Martin Ulmschneider ([martin.ulmschneider@kcl.ac.uk](mailto:martin.ulmschneider@kcl.ac.uk)) |
+| 08.2022 - 09.2022  | Instituto Interdisciplinario de las Ciencias, Universidad Nacional de Cuyo, Mendoza, Argentina     | Dr. Vanesa V. Galassi ([vanegalassi@gmail.com](mailto:vanegalassi@gmail.com))     |
+
+
+## Fellowships and Rewards
+
+| Duration           | Award/Description                                                                                                   | Institution/Location                                |
+|--------------------|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+| 2023               | IUPAB bursaries to attend international conferences: *"Physics of Life 2023"*                                       | International Union for Pure and Applied Biophysics (IUPAB); Harrogate, Yorkshire, UK |
+| 2022               | IUPAB bursaries to attend international conferences: *"L Annual Meeting of the SAB"*                                | International Union for Pure and Applied Biophysics (IUPAB); Rosario, Argentina |
+| 2021 - 2024        | End of PhD Fellowships                                                                                              | National Scientific and Technical Research Council - CONICET; Argentina |
+| 2020 - 2023        | Scholarship-Loan COLFUTURO                                                                                          | National Colombian Government; Colombia |
+| 2018 - 2021        | Beginning PhD Fellowship                                                                                            | National Fund for Science and Technology - FONCyT; Argentina |
+| 2017               | Meritorious mention for the degree work: *"Some Structural, Electronic and Vibrational Properties of Phosphine..."*  | Facultad de Ciencias Básicas y Tecnologías, Universidad del Quindío; Colombia |
+
+
