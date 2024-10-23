@@ -118,3 +118,4 @@ Undergraduate Research Assistantship (URA) undergraduates work about 6-8 hours/w
 | 02.2015 - 06.2015 | Advanced spectroscopy methods                                                     | *Universidad del Quindío, Colombia*          | 80    |
 | 02.2015 - 06.2015 | Computational chemistry                                                          | *Universidad del Quindío, Colombia*          | 80    |
 
+
