@@ -1,28 +1,39 @@
 # Chemistry Scientist
 
 ## Education
-- **2024**      Ph.D., Chemistry - Universidad Nacional de Córdoba, Argentina     		
-- **2023**      Diploma in Data Science	- Universidad Nacional de Córdoba, Argentina		        		
-- **2027**      B.S., Chemistry - Universidad del Quindío, Colombia
+- **2024**      PhD in Chemistry - Universidad Nacional de Córdoba, Argentina     		
+- **2023**      Data Science and Machine Learning	- Universidad Nacional de Córdoba, Argentina		        		
+- **2017**      B.S. in Chemistry - Universidad del Quindío, Colombia
 
 ## Work Experience
-**Assistant Teacher @ Faculty of Chemistry, Universidad Nacional de Córdoba,(_August 2019 - April 2024_)**
+
+## **Research Intership**  
+
+**02.2024 - 05.2024** | **01.2023 - 05.2023**
+Departments of Physics Chemistry | Departments of Chemistry,  King's College London, UK  
+
+- Conceptualized and evaluated research projects involving molecular dynamics (MD) simulations, ensuring scientific rigor and feasibility.
+- Conducted MD simulations utilizing high-performance computing clusters to generate accurate and reproducible results.
+- Processed and analyzed complex datasets efficiently using advanced Python scripting and automation tools.
+- Designed and presented visually compelling graphs and tables to effectively communicate findings during internal lab meetings.
+- Authored comprehensive reports summarizing simulation outcomes, analyses, and key insights for stakeholders.
+
+**Supervisors:**  
+- Prof. Christian D. Lorenz ([chris.lorenz@kcl.ac.uk](mailto:chris.lorenz@kcl.ac.uk)) (02.2024 - 05.2024) 
+- Prof. Martin Ulmschneider ([martin.ulmschneider@kcl.ac.uk](mailto:martin.ulmschneider@kcl.ac.uk)) (01.2023 - 05.2023)  
+
+
+**Assistant Teacher @ Faculty of Chemistry, Universidad Nacional de Córdoba
+**08.2019 - 04.2024**
 - Delivery of agreed package of teaching activities to a high standard. These activities may include seminars, classes, tutorials, lab sessions, other small group work to develop student skills, demonstration for experiments/techniques in lab-based science and computing.
 - Monitor and interact with students during the entire lab session. This means circulating throughout the lab section visually monitoring student performances. Grade homework, lab reports, quizzes, and exams according to the directions provided by the course instructor. Collaborated with large and diverse team.
 
-**Science Teacher @ Fundación Caicedo González Riopaila Castilla | Science Teacher @ Instituto Técnico Diversificado Grajales,, Colombia (_June 2017 - December 2017_)**
+**Science Teacher @ Fundación Caicedo González Riopaila Castilla | Science Teacher @ Instituto Técnico Diversificado Grajales,, Colombia
+**06.2017 - 12.2017**
 - To prepare and deliver new teaching material for multiple classes in chemistry, physics, and biology. This has involved designing and implementing engaging and interactive lessons that cater to the diverse learning needs of my students. I have also worked closely with my colleagues to ensure that our teaching methods are aligned with the latest educational research and best practices.
 
 
 ## Internships
-
-- **02.2024 - 05.2024**  
-  Department of Physics, King's College London, UK  
-  Supervisor: Prof. Christian D. Lorenz ([chris.lorenz@kcl.ac.uk](mailto:chris.lorenz@kcl.ac.uk))
-
-- **01.2023 - 05.2023**  
-  Department of Chemistry, King's College London, UK  
-  Supervisor: Prof. Martin Ulmschneider ([martin.ulmschneider@kcl.ac.uk](mailto:martin.ulmschneider@kcl.ac.uk))
 
 - **08.2022 - 09.2022**  
   Instituto Interdisciplinario de las Ciencias, Universidad Nacional de Cuyo, Mendoza, Argentina  
@@ -83,7 +94,7 @@ Undergraduate Research Assistantship (URA) undergraduates work about 6-8 hours/w
 ### Languages
 
 - **Spanish**: Native  
-- **English**: Pearson PTE
+- **English**: B1 Intermediate
 
 ## Congress and Conferences
 
