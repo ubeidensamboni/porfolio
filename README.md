@@ -26,8 +26,8 @@ Departments of Physics Chemistry | Departments of Chemistry
 - Delivery of agreed package of teaching activities to a high standard. These activities may include seminars, classes, tutorials, lab sessions, other small group work to develop student skills, demonstration for experiments/techniques in lab-based science and computing.
 - Monitor and interact with students during the entire lab session. This means circulating throughout the lab section visually monitoring student performances. Grade homework, lab reports, quizzes, and exams according to the directions provided by the course instructor. Collaborated with large and diverse team.
 
-**Science Teacher @ Fundación Caicedo González Riopaila Castilla | Science Teacher @ Instituto Técnico Diversificado Grajales,, Colombia
-**06.2017 - 12.2017**
+**06.2017 - 12.2017**: Science Teacher @ Fundación Caicedo González Riopaila Castilla | Science Teacher @ Instituto Técnico Diversificado Grajales,, Colombia
+
 - To prepare and deliver new teaching material for multiple classes in chemistry, physics, and biology. This has involved designing and implementing engaging and interactive lessons that cater to the diverse learning needs of my students. I have also worked closely with my colleagues to ensure that our teaching methods are aligned with the latest educational research and best practices.
 
 
@@ -116,15 +116,15 @@ Undergraduate Research Assistantship (URA) undergraduates work about 6-8 hours/w
 | 11.2023    | Time series analysis in Python. Introduction                                            | FAMAF, *Universidad Nacional de Córdoba*     | 16    |
 | 10.2021    | Protein structure and dynamic                                                           | *Universidad Nacional de Córdoba*            | 40    |
 | 09.2020    | Introduction to data science in python                                                   | *University of Michigan (Online-Coursera)*   | 30    |
-| 08.2020 - 11.2020 | Introduction to python programming                                               | *Universidad Nacional de San Martin*         | 64    |
-| 06.2020 - 07.2020 | The research article in English. How to write in science                         | *Universidad Nacional de Córdoba*            | 20    |
+| 08.2020    | Introduction to python programming                                               | *Universidad Nacional de San Martin*         | 64    |
+| 06.2020    | The research article in English. How to write in science                         | *Universidad Nacional de Córdoba*            | 20    |
 | 04.2019    | Epistemology for the teaching of natural sciences                                       | *Universidad Nacional de Córdoba*            | 40    |
 | 07.2018    | Quantum mechanical methods based on density functional theory - DFT                     | *Universidad Nacional de Córdoba*            | 40    |
 | 04.2018    | Molecular biophysics of proteins                                                        | *Universidad Nacional de Córdoba*            | 40    |
 | 07.2015    | International Summer Schools: Quantum Chemistry                                         | PREFALC (Programme Régional France - Amérique Latine Caraïbe) | 80    |
 | 02.2016    | Nanochemistry                                                                            | *Universidad del Quindío, Colombia*          | 80    |
 | 04.2015    | Introduction to the density functional theory - DFT                                      | *Universidad del Quindío, Colombia*          | 20    |
-| 02.2015 - 06.2015 | Advanced spectroscopy methods                                                     | *Universidad del Quindío, Colombia*          | 80    |
-| 02.2015 - 06.2015 | Computational chemistry                                                          | *Universidad del Quindío, Colombia*          | 80    |
+| 02.2015    | Advanced spectroscopy methods                                                     | *Universidad del Quindío, Colombia*          | 80    |
+| 02.2015    | Computational chemistry                                                          | *Universidad del Quindío, Colombia*          | 80    |
 
 
