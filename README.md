@@ -6,7 +6,7 @@
 - **2017**      B.S. in Chemistry - Universidad del Quindío, Colombia
 
 ## Work Experience
- **02.2024 - 05.2024** | **01.2023 - 05.2023**
+ - **02.2024 - 05.2024** | **01.2023 - 05.2023**
  
  **Research Intership** @ King's College London, UK 
 
@@ -21,7 +21,7 @@
 - Prof. Martin Ulmschneider ([martin.ulmschneider@kcl.ac.uk](mailto:martin.ulmschneider@kcl.ac.uk)) (01.2023 - 05.2023, Departments of Chemistry)
 
 
-**08.2019 - 04.2024**
+- **08.2019 - 04.2024**
 
 **Assistant Teacher** @ Faculty of Chemistry, Universidad Nacional de Córdoba
 
