@@ -16,7 +16,7 @@
 - Authored comprehensive reports summarizing simulation outcomes, analyses, and key insights for stakeholders.
 
 **Supervisors:**  
-- Prof. Christian D. Lorenz ([chris.lorenz@kcl.ac.uk](mailto:chris.lorenz@kcl.ac.uk)) (02.2024 - 05.2024, Department of Physics) 
+- Prof. Christian D. Lorenz ([chris.lorenz@kcl.ac.uk](mailto:chris.lorenz@kcl.ac.uk)) (02.2024 - 05.2024, Department of Physics)
 - Prof. Martin Ulmschneider ([martin.ulmschneider@kcl.ac.uk](mailto:martin.ulmschneider@kcl.ac.uk)) (01.2023 - 05.2023, Department of Chemistry)
 
 **Assistant Teacher** @ Faculty of Chemistry, Universidad Nacional de Córdoba
