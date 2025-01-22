@@ -42,7 +42,7 @@
 
 ## Fellowships and Rewards
 
-- **2024:** Outstanding doctoral dissertation.
+- **2024:** Outstanding doctoral dissertation.  
   Faculty of Chemistry, Universidad Nacional de Córdoba.
 
 - **2023:** IUPAB bursaries to attend international conferences: *"Physics of Life 2023"*.  
