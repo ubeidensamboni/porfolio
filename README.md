@@ -6,11 +6,9 @@
 - **2017**      B.S. in Chemistry - Universidad del Quindío, Colombia
 
 ## Work Experience
+ **02.2024 - 05.2024** | **01.2023 - 05.2023:** **Research Intership** @ King's College London, UK  
 
-## **Research Intership**  
-
-**02.2024 - 05.2024** | **01.2023 - 05.2023**
-Departments of Physics Chemistry | Departments of Chemistry,  King's College London, UK  
+Departments of Physics Chemistry | Departments of Chemistry
 
 - Conceptualized and evaluated research projects involving molecular dynamics (MD) simulations, ensuring scientific rigor and feasibility.
 - Conducted MD simulations utilizing high-performance computing clusters to generate accurate and reproducible results.
