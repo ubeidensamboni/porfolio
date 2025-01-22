@@ -6,7 +6,7 @@
 - **2017**      B.S. in Chemistry - Universidad del Quindío, Colombia
 
 ## Work Experience
- **02.2024 - 05.2024** | **01.2023 - 05.2023:** **Research Intership** @ King's College London, UK  
+ **02.2024 - 05.2024** | **01.2023 - 05.2023**: Research Intership @ King's College London, UK  
 
 Departments of Physics Chemistry | Departments of Chemistry
 
@@ -21,8 +21,8 @@ Departments of Physics Chemistry | Departments of Chemistry
 - Prof. Martin Ulmschneider ([martin.ulmschneider@kcl.ac.uk](mailto:martin.ulmschneider@kcl.ac.uk)) (01.2023 - 05.2023)  
 
 
-**Assistant Teacher @ Faculty of Chemistry, Universidad Nacional de Córdoba
-**08.2019 - 04.2024**
+**08.2019 - 04.2024**: Assistant Teacher @ Faculty of Chemistry, Universidad Nacional de Córdoba
+
 - Delivery of agreed package of teaching activities to a high standard. These activities may include seminars, classes, tutorials, lab sessions, other small group work to develop student skills, demonstration for experiments/techniques in lab-based science and computing.
 - Monitor and interact with students during the entire lab session. This means circulating throughout the lab section visually monitoring student performances. Grade homework, lab reports, quizzes, and exams according to the directions provided by the course instructor. Collaborated with large and diverse team.
 
