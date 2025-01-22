@@ -16,8 +16,8 @@
 - Authored comprehensive reports summarizing simulation outcomes, analyses, and key insights for stakeholders.
 
 **Supervisors:**  
-- Prof. Christian D. Lorenz ([chris.lorenz@kcl.ac.uk](mailto:chris.lorenz@kcl.ac.uk)) (02.2024 - 05.2024, Departments of Physics) 
-- Prof. Martin Ulmschneider ([martin.ulmschneider@kcl.ac.uk](mailto:martin.ulmschneider@kcl.ac.uk)) (01.2023 - 05.2023, Departments of Chemistry)
+- Prof. Christian D. Lorenz ([chris.lorenz@kcl.ac.uk](mailto:chris.lorenz@kcl.ac.uk)) (02.2024 - 05.2024, Department of Physics) 
+- Prof. Martin Ulmschneider ([martin.ulmschneider@kcl.ac.uk](mailto:martin.ulmschneider@kcl.ac.uk)) (01.2023 - 05.2023, Department of Chemistry)
 
 **Assistant Teacher** @ Faculty of Chemistry, Universidad Nacional de Córdoba
 **08.2019 - 04.2024**
@@ -25,7 +25,7 @@
 - Delivery of agreed package of teaching activities to a high standard. These activities may include seminars, classes, tutorials, lab sessions, other small group work to develop student skills, demonstration for experiments/techniques in lab-based science and computing.
 - Monitor and interact with students during the entire lab session. This means circulating throughout the lab section visually monitoring student performances. Grade homework, lab reports, quizzes, and exams according to the directions provided by the course instructor. Collaborated with large and diverse team.
 
-**Science Teacher** @ Fundación Caicedo González Riopaila Castilla | Science Teacher @ Instituto Técnico Diversificado Grajales,, Colombia
+**Science Teacher** @ Fundación Caicedo González Riopaila Castilla | Instituto Técnico Diversificado Grajales, Colombia
 **06.2017 - 12.2017**
 
 
