@@ -1,8 +1,8 @@
 # Chemistry Scientist
 
 ## Education
-- **2024**      PhD in Chemistry - Universidad Nacional de Córdoba, Argentina     		
-- **2023**      Data Science and Machine Learning	- Universidad Nacional de Córdoba, Argentina		        		
+- **2024**      PhD in Chemistry - Universidad Nacional de Córdoba, Argentina
+- **2023**      Data Science and Machine Learning	- Universidad Nacional de Córdoba, Argentina  		
 - **2017**      B.S. in Chemistry - Universidad del Quindío, Colombia
 
 ## Work Experience
