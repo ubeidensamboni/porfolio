@@ -6,7 +6,8 @@
 - **2017**      B.S. in Chemistry - Universidad del Quindío, Colombia
 
 ## Work Experience
- **02.2024 - 05.2024** | **01.2023 - 05.2023** 
+ **02.2024 - 05.2024** | **01.2023 - 05.2023**
+ 
  **Research Intership** @ King's College London, UK 
 
 - Conceptualized and evaluated research projects involving molecular dynamics (MD) simulations, ensuring scientific rigor and feasibility.
@@ -21,13 +22,15 @@
 
 
 **08.2019 - 04.2024**
-Assistant Teacher @ Faculty of Chemistry, Universidad Nacional de Córdoba
+
+**Assistant Teacher** @ Faculty of Chemistry, Universidad Nacional de Córdoba
 
 - Delivery of agreed package of teaching activities to a high standard. These activities may include seminars, classes, tutorials, lab sessions, other small group work to develop student skills, demonstration for experiments/techniques in lab-based science and computing.
 - Monitor and interact with students during the entire lab session. This means circulating throughout the lab section visually monitoring student performances. Grade homework, lab reports, quizzes, and exams according to the directions provided by the course instructor. Collaborated with large and diverse team.
 
 **06.2017 - 12.2017**
-**Science Teacher* @ Fundación Caicedo González Riopaila Castilla | Science Teacher @ Instituto Técnico Diversificado Grajales,, Colombia
+
+**Science Teacher** @ Fundación Caicedo González Riopaila Castilla | Science Teacher @ Instituto Técnico Diversificado Grajales,, Colombia
 
 - To prepare and deliver new teaching material for multiple classes in chemistry, physics, and biology. This has involved designing and implementing engaging and interactive lessons that cater to the diverse learning needs of my students. I have also worked closely with my colleagues to ensure that our teaching methods are aligned with the latest educational research and best practices.
 
