@@ -42,6 +42,10 @@
 
 ## Fellowships and Rewards
 
+
+- **2024:** Outstanding doctoral dissertation
+  Faculty of Chemistry, Universidad Nacional de Córdoba
+
 - **2023:** IUPAB bursaries to attend international conferences: *"Physics of Life 2023"*.  
   International Union for Pure and Applied Biophysics (IUPAB); Harrogate, Yorkshire, UK.
 
