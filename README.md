@@ -131,5 +131,3 @@ Undergraduate Research Assistantship (URA) undergraduates work about 6-8 hours/w
 | 04.2015    | Introduction to the density functional theory - DFT                                      | *Universidad del Quindío, Colombia*          | 20    |
 | 02.2015    | Advanced spectroscopy methods                                                     | *Universidad del Quindío, Colombia*          | 80    |
 | 02.2015    | Computational chemistry                                                          | *Universidad del Quindío, Colombia*          | 80    |
-
-
