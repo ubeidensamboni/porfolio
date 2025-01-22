@@ -6,7 +6,7 @@
 - **2017**      B.S. in Chemistry - Universidad del Quindío, Colombia
 
 ## Work Experience
-  **Research Intership** @ King's College London, UK 
+  **Research Intership** @ King's College London, UK
   **02.2024 - 05.2024** | **01.2023 - 05.2023**
  
 - Conceptualized and evaluated research projects involving molecular dynamics (MD) simulations, ensuring scientific rigor and feasibility.
