@@ -92,7 +92,7 @@ Undergraduate Research Assistantship (URA) undergraduates work about 6-8 hours/w
 ### Languages
 
 - **Spanish**: Native  
-- **English**: B1 Intermediate
+- **English**: Intermediate
 
 ## Congress and Conferences
 
