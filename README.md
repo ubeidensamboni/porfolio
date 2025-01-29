@@ -11,7 +11,7 @@
 ## Work Experience
   **Research Internship** @ King's College London, UK
   (_02.2024 - 05.2024_ - Prof. Christian D. Lorenz | 01.2023 - 05.2023_ - Prof. Martin Ulmschneider)
- 
+ <br> Prof. Christian D. Lorenz | Prof. Martin Ulmschneider)
 - Conceptualized and evaluated research projects involving molecular dynamics (MD) simulations, ensuring scientific rigor and feasibility.
 - Conducted MD simulations utilizing high-performance computing clusters to generate accurate and reproducible results.
 - Processed and analyzed complex datasets efficiently using advanced Python scripting and automation tools.
