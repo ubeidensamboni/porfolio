@@ -2,7 +2,7 @@
 
 ## Education
 - **2024**      PhD in Chemistry - Universidad Nacional de Córdoba, Argentina
-  <br>Research activity focuses on: Experimental and Computational Biophisics
+  <br>Research activity focuses on: Experimental and Computational Biophysics
 - **2023**      Data Science and Machine Learning	- Universidad Nacional de Córdoba, Argentina
   
 - **2017**      B.S. in Chemistry - Universidad del Quindío, Colombia
