@@ -6,8 +6,8 @@
 - **2017**      B.S. in Chemistry - Universidad del Quindío, Colombia
 
 ## Work Experience
-  **Research Intership** @ King's College London, UK
-  (_02.2024 - 05.2024 | 01.2023 - 05.2023_)
+  **Research Internship** @ King's College London, UK
+  (_02.2024 - 05.2024_ Prof. Christian D. Lorenz | 01.2023 - 05.2023_ Prof. Martin Ulmschneider)
  
 - Conceptualized and evaluated research projects involving molecular dynamics (MD) simulations, ensuring scientific rigor and feasibility.
 - Conducted MD simulations utilizing high-performance computing clusters to generate accurate and reproducible results.
@@ -15,9 +15,6 @@
 - Designed and presented visually compelling graphs and tables to effectively communicate findings during internal lab meetings.
 - Authored comprehensive reports summarizing simulation outcomes, analyses, and key insights for stakeholders.
 
-**Supervisors:**  
-- Prof. Christian D. Lorenz ([chris.lorenz@kcl.ac.uk](mailto:chris.lorenz@kcl.ac.uk)) (_02.2024 - 05.2024_, Department of Physics)
-- Prof. Martin Ulmschneider ([martin.ulmschneider@kcl.ac.uk](mailto:martin.ulmschneider@kcl.ac.uk)) (_01.2023 - 05.2023_, Department of Chemistry)
 
 **Assistant Teacher** @ Faculty of Chemistry, Universidad Nacional de Córdoba
 (_08.2019 - 04.2024_)
