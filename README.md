@@ -2,11 +2,11 @@
 
 ## Education
 - **2024**      PhD in Chemistry - Universidad Nacional de Córdoba, Argentina
-  Research activity focuses on: Experimental and Computational Biophisics
+  <br>Research activity focuses on: Experimental and Computational Biophisics
 - **2023**      Data Science and Machine Learning	- Universidad Nacional de Córdoba, Argentina
   
 - **2017**      B.S. in Chemistry - Universidad del Quindío, Colombia
-  Research activity focuses on: Computational Quantum Chemistry - DFT Calculations
+  <br>Research activity focuses on: Computational Quantum Chemistry - DFT Calculations
 
 ## Work Experience
   **Research Internship** @ King's College London, UK
