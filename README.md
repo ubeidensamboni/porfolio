@@ -54,6 +54,36 @@ _June 2017 – December 2017_ **Science Teacher**  [Instituto Técnico Diversifi
 - Led an interactive lab session that fostered hands-on learning and critical thinking.  
 - Developed interactive teaching materials, aligning with modern educational practices.  
 
+## Research Skills  
+
+- **Molecular Biology**: DNA, RNA, protein extraction from cell lines; interpretation of DNA sequencing chromatographs; bacterial lysis; production of recombinant proteins.  
+- **Biophysics**: Preparation of multilamellar vesicles and unilamellar vesicles, Brewster angle microscopy, differential scanning calorimetry, Langmuir monolayers, time-correlated single photon counting, dynamic light scattering, fluorescence, UV-Vis and ATR-FTIR spectroscopy, silver protein staining.  
+- **Chromatographic**: ÄKTA, FPLC, size exclusion, HPLC, SDS-PAGE electrophoresis.  
+- **Bioinformatics**: Molecular dynamics simulation, GROMACS, Visual Molecular Dynamics, NGL View, CHARMM-GUI, MDAnalysis, Gaussian 16, NBO 6.0, High-Performance Computing.  
+- **Data Science**: Collect, interpret, organize, and present complex datasets; conducted PCA for dimensionality reduction and evaluated linear separability of the target feature; developed supervised learning models.  
+
+---
+
+## Languages & IT Skills  
+
+**Languages:** Spanish (native) and English (proficient).  
+
+**IT Skills:** Python, Bash, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, JupyterLab, Google Colab, Conda, LaTeX, Linux, Windows OS, GitHub, Fiji-ImageJ, Inkscape, GIMP, Word, Excel, PowerPoint, DarkTable, Mendeley, Overleaf.  
+
+
+## Professional Skills  
+
+- **Communication**: Presented regular oral lab meetings, departmental seminars, and conferences; chaired meetings.  
+- **Leadership & Management**: As leader of [Young Initiative on Biophysics (YIB)](https://secretariayib.wixsite.com/ybiophysics) for two years, strategically coordinated international scientific events, cultivated interdisciplinary collaborations, and secured crucial national and international funding to support the initiative (e.g., [IUPAB](https://iupab.org/sponsorship-policy/), [SAB](https://biofisica.org.ar/)). Planned, led, and managed my own research projects; coached rotation students and was involved in their day-to-day supervision; developed problem-solving ability (experiment troubleshooting).  
+- **Teamwork**: Fostered successful internal and external collaborations resulting in publications during PhD; actively contributed to the biophysics teacher course team; led and coordinated a diverse 20-member team in YIB, promoting interdisciplinary cooperation and achieving shared goals.  
+- **Organisation**: Organised a conference for over 100 delegates, including administrative and logistic tasks together with comprehensive catering arrangements.  
+- **Time Management**: Successfully balanced PhD research with teaching responsibilities for undergraduate students; efficiently planned and managed YIB’s annual activity calendar, ensuring timely execution and meeting deadlines.  
+- **Independence**: Took full responsibility for leading my research projects; identified new avenues for research, designed projects, and wrote proposals independently; secured competitive funding to support my own projects; developed experimental assays that were new for the lab.  
+- **Networking**: Developed a robust international network of collaborators and renowned speakers, facilitating future partnerships and knowledge sharing.  
+- **Attention to Detail**: Maintained accurate record-keeping of experiments; used checklists to organize my work and ensure timely completion.  
+
+
+
 
 ## Fellowships and Rewards
 
@@ -78,22 +108,7 @@ _June 2017 – December 2017_ **Science Teacher**  [Instituto Técnico Diversifi
 - **2017:** Meritorious mention for the degree work: *"Some Structural, Electronic and Vibrational Properties of Phosphine Diphenyl[2-(2-Pyridylaminomethyl)-Phenyl] Oxide. A Quantum Chemical Study"*.  
   Facultad de Ciencias Básicas y Tecnologías, Universidad del Quindío; Colombia.
 
-## Skills and Abilities
 
-- **Protein expression and purification**:  
-  Bacterial transformation, plasmid extraction, bacteria lysis, production of recombinant proteins and peptides.
-
-- **Biophysics**:  
-  Brewster angle microscopy (BAM), differential scanning calorimetry (DSC), Langmuir monolayers, time-correlated single photon counting (TCSPC), fluorescence spectroscopy, dynamic light scattering (DLS), UV/Vis spectroscopy, ATR-FTIR spectroscopy, silver protein staining, ÄKTA FPLC, size exclusion, HPLC, SDS-PAGE electrophoresis, preparation of multilamellar vesicles (MLVs) and unilamellar vesicles (SUVs).
-  
-- **Molecular Dynamic Simulation**:  
-  Gromacs, Visual Molecular Dynamics (VMD), CHARMM-GUI, MDAnalysis, Gaussian 16, NBO 6.0.
-
-- **Operating Systems:** Proficient in Linux with extensive experience in Python and Bash programming.
-- **Data Analysis & Visualization Tools:** Skilled in NumPy, SciPy, pandas, scikit-learn, Seaborn, Matplotlib, JupyterLab, Google Colab, Conda, and Visual Studio.
-- **Windows Software:** Proficient in Excel, MS Office Suite, and PowerPoint.
-- **Document Preparation & Design Tools:** Advanced proficiency in LaTeX for document preparation and Inkscape for professional image editing and advertisement creation.
-- **Others**: GitHub, Fiji ImageJ, GIMP.
 
 ## Miscellaneous
 
