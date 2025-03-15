@@ -109,54 +109,29 @@ _June 2017 – December 2017_ **Science Teacher**  [Instituto Técnico Diversifi
   Facultad de Ciencias Básicas y Tecnologías, Universidad del Quindío; Colombia.
 
 
+## International Meetings  
 
-## Miscellaneous
+During my career, I have participated in and delivered talks at a variety of international scientific conferences, some with hundreds of participants. A selection is reported here:  
 
-### Membership Scientific Society
+- **LI Annual Meeting of the [Argentinean Biophysical Society (SAB)](https://biofisica.org.ar/)**, Córdoba, Argentina – **November 2023**  
+- **VII Meeting of [Young Initiative on Biophysics (YIB)](https://secretariayib.wixsite.com/ybiophysics)**, Córdoba, Argentina – **November 2023**  
+- **Physics of Life 2023**, Harrogate, UK – **March 2023**  
+- **L Annual Meeting of the [Argentinean Biophysical Society (SAB)](https://biofisica.org.ar/)**, Rosario, Argentina – **November 2022**  
+- **VI Meeting of [Young Initiative on Biophysics (YIB)](https://secretariayib.wixsite.com/ybiophysics)**, Rosario, Argentina – **November 2022**  
+- **IL Annual Meeting of the Argentinean Biophysical Society (SAB) (Virtual)**, Argentina – **December 2021**  
+- **XLVII Annual Meeting of the [Argentinean Biophysical Society (SAB)](https://biofisica.org.ar/)**, La Plata, Argentina – **December 2018**  
 
-- **2020 - 2023**: [YIB (Young Initiative on Biophysics)](https://secretariayib.wixsite.com/ybiophysics)
-- **2018 - 2024**: [SAB (Sociedad Argentina de Biofísica)](https://biofisica.org.ar/young-initiative-on-biophysics-2019/)
 
-### Student Project Supervision
+## Selected Courses and Training  
 
-Undergraduate Research Assistantship (URA) undergraduates work about 6-8 hours/week for a term on a research project.
-
-- **06.2023 - 12.2023**: Alexander García. *Molecular Dynamic Simulation: Transmembrane Proteins*. URA student, Universidad Nacional de Córdoba (UNC), Argentina.
-
-### Languages
-
-- **Spanish**: Native  
-- **English**: Intermediate
-
-## Congress and Conferences
-
-| Date        | Event                                                                                                      | Role                                        | Location                    |
-|-------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------------------|
-| 11.2023     | Congress: *LI Annual Meeting of the SAB*                                                                   | Attendance                                 | Córdoba, Argentina           |
-| 11.2023     | Meeting: *VII Meeting of YIB*                                                                              | Member of the organizing committee          | Córdoba, Argentina           |
-| 03.2023     | Conference: *Physics of Life 2023*                                                                         | Poster                                      | Harrogate, Yorkshire, UK     |
-| 11.2022     | Congress: *L Annual Meeting of the SAB*                                                                    | Attendance                                 | Rosario, Argentina           |
-| 11.2022     | Meeting: *VI Meeting of YIB*                                                                               | Member of the organizing committee          | Rosario, Argentina           |
-| 12.2021     | Congress: *IL Annual Meeting of the SAB (Virtual)*                                                         | Attendance                                 | Argentina                    |
-| 11.2021     | Meeting: *V Meeting of YIB (Virtual)*                                                                      | Member of the organizing committee          | Argentina                    |
-| 12.2018     | Congress: *XLVII Annual Meeting of the SAB*                                                                | Poster                                      | La Plata, Argentina          |
-
-## Postgraduate courses
-
-| Date       | Course                                                                                  | Institution                                  | Hours |
-|------------|------------------------------------------------------------------------------------------|----------------------------------------------|-------|
-| 11.2023    | Image processing in Python                                                              | FAMAF, *Universidad Nacional de Córdoba*     | 16    |
-| 11.2023    | Computer vision with Python                                                             | FAMAF, *Universidad Nacional de Córdoba*     | 16    |
-| 11.2023    | Time series analysis in Python. Introduction                                            | FAMAF, *Universidad Nacional de Córdoba*     | 16    |
-| 10.2021    | Protein structure and dynamic                                                           | *Universidad Nacional de Córdoba*            | 40    |
-| 09.2020    | Introduction to data science in python                                                   | *University of Michigan (Online-Coursera)*   | 30    |
-| 08.2020    | Introduction to python programming                                               | *Universidad Nacional de San Martin*         | 64    |
-| 06.2020    | The research article in English. How to write in science                         | *Universidad Nacional de Córdoba*            | 20    |
-| 04.2019    | Epistemology for the teaching of natural sciences                                       | *Universidad Nacional de Córdoba*            | 40    |
-| 07.2018    | Quantum mechanical methods based on density functional theory - DFT                     | *Universidad Nacional de Córdoba*            | 40    |
-| 04.2018    | Molecular biophysics of proteins                                                        | *Universidad Nacional de Córdoba*            | 40    |
-| 07.2015    | International Summer Schools: Quantum Chemistry                                         | PREFALC (Programme Régional France - Amérique Latine Caraïbe) | 80    |
-| 02.2016    | Nanochemistry                                                                            | *Universidad del Quindío, Colombia*          | 80    |
-| 04.2015    | Introduction to the density functional theory - DFT                                      | *Universidad del Quindío, Colombia*          | 20    |
-| 02.2015    | Advanced spectroscopy methods                                                     | *Universidad del Quindío, Colombia*          | 80    |
-| 02.2015    | Computational chemistry                                                          | *Universidad del Quindío, Colombia*          | 80    |
+- **Image Processing in Python**, FAMAF-UNC – **November 2023**  
+- **Computer Vision with Python**, FAMAF-UNC – **November 2023**  
+- **Time Series Analysis in Python**, FAMAF-UNC – **November 2023**  
+- **Protein Structure and Dynamics**, FCQ-UNC – **October 2021**  
+- **Introduction to Data Science in Python**, University of Michigan (Coursera) – **September 2020**  
+- **Introduction to Python Programming**, UNSAM – **November 2020**  
+- **The Research Article in English: How to Write in Science**, UNC – **July 2020**  
+- **Quantum Mechanical Methods Based on DFT**, UNC – **July 2018**  
+- **Molecular Biophysics of Proteins**, UNC – **April 2018**  
+- **International Summer School: Quantum Chemistry**, PREFALC – **July 2015**  
+- **Advanced Spectroscopy Methods**, University of Quindío – **June 2015**  
