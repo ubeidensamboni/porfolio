@@ -4,7 +4,7 @@
 
 _2018-2024_  **PhD in Chemistry**  [Universidad Nacional de Córdoba](https://www.fcq.unc.edu.ar/), Córdoba, Argentina  
 
-**Thesis:** Effect of lipid environment in the conformation and orientation of the transmembrane-cytoplasmic segments of the integrin αIIbβ3.  
+_Thesis_: Effect of lipid environment in the conformation and orientation of the transmembrane-cytoplasmic segments of the integrin αIIbβ3.  
 
 For my PhD, I investigated the interfacial properties of the transmembrane (TM) and intracellular (IC) domains of αIIbβ3 integrin and their interactions with lipid monolayers. My study represents a key advance in the understanding of integrin-lipid interactions, which are critical for cell adhesion and signaling. My findings demonstrate that:  
 
@@ -83,39 +83,38 @@ _June 2017 – December 2017_ **Science Teacher**  [Instituto Técnico Diversifi
 ## Scholarships & Awards  
 
 ### Fellowships  
-- _2021–2024_ **End of PhD Fellowship (3 years)** – CONICET, Argentina *Wrote research proposal independently*
-- _2021–2023_ **Scholarship-Loan** – COLFUTURO, Colombia  *Awarded additional PhD funding and travel/living expenses. Wrote and secured award independently* 
-- _2018–2021_ **Doctoral Fellowship (3 years)** – FONCYT, Argentina  
+- _2021–2024_ End of PhD Fellowship (3 years) – CONICET, Argentina
+- _2021–2023_ Scholarship-Loan – COLFUTURO, Colombia
+- _2018–2021_ Doctoral Fellowship (3 years) – FONCYT, Argentina  
 
 ### Travel Awards  
-- _2023_ **IUPAB Travel Grant** – *Physics of Life 2023*, Harrogate, Yorkshire, UK  
-- _2022_ **IUPAB Travel Grant** – *L Annual Meeting of the Argentinean Biophysical Society (SAB)*, Argentina
-- _2018_ **SAB Travel Grant** – *XLVII Annual Meeting of the Argentinean Biophysical Society (SAB)*, Argentina
-
+- _2023_ IUPAB Travel Grant – Physics of Life 2023, Harrogate, Yorkshire, UK  
+- _2022_ IUPAB Travel Grant – L Annual Meeting of the Argentinean Biophysical Society (SAB), Argentina
+- _2018_ SAB Travel Grant – XLVII Annual Meeting of the Argentinean Biophysical Society (SAB), Argentina
 
 ## International Meetings  
 
 During my career, I have participated in and delivered talks at a variety of international scientific conferences, some with hundreds of participants. A selection is reported here:  
 
-- **LI Annual Meeting of the [Argentinean Biophysical Society (SAB)](https://biofisica.org.ar/)**, Córdoba, Argentina – **November 2023**  
-- **VII Meeting of [Young Initiative on Biophysics (YIB)](https://secretariayib.wixsite.com/ybiophysics)**, Córdoba, Argentina – **November 2023**  
-- **Physics of Life 2023**, Harrogate, UK – **March 2023**  
-- **L Annual Meeting of the [Argentinean Biophysical Society (SAB)](https://biofisica.org.ar/)**, Rosario, Argentina – **November 2022**  
-- **VI Meeting of [Young Initiative on Biophysics (YIB)](https://secretariayib.wixsite.com/ybiophysics)**, Rosario, Argentina – **November 2022**  
-- **IL Annual Meeting of the Argentinean Biophysical Society (SAB) (Virtual)**, Argentina – **December 2021**  
-- **XLVII Annual Meeting of the [Argentinean Biophysical Society (SAB)](https://biofisica.org.ar/)**, La Plata, Argentina – **December 2018**  
+- _November 2023_ LI Annual Meeting of the [Argentinean Biophysical Society (SAB)](https://biofisica.org.ar/), Córdoba, Argentina  
+- _November 2023_ VII Meeting of [Young Initiative on Biophysics (YIB)](https://secretariayib.wixsite.com/ybiophysics), Córdoba, Argentina
+- _March 2023_ Physics of Life 2023, Harrogate, UK  
+- _November 2022_ L Annual Meeting of the [Argentinean Biophysical Society (SAB)](https://biofisica.org.ar/), Rosario, Argentina 
+- _November 2022_ VI Meeting of [Young Initiative on Biophysics (YIB)](https://secretariayib.wixsite.com/ybiophysics), Rosario, Argentina  
+- _December 2021_ IL Annual Meeting of the Argentinean Biophysical Society (SAB) (Virtual), Argentina  
+- _December 2018_ XLVII Annual Meeting of the [Argentinean Biophysical Society (SAB)](https://biofisica.org.ar/), La Plata, Argentina  
 
 
 ## Selected Courses and Training  
 
-- **Image Processing in Python**, FAMAF-UNC – **November 2023**  
-- **Computer Vision with Python**, FAMAF-UNC – **November 2023**  
-- **Time Series Analysis in Python**, FAMAF-UNC – **November 2023**  
-- **Protein Structure and Dynamics**, FCQ-UNC – **October 2021**  
-- **Introduction to Data Science in Python**, University of Michigan (Coursera) – **September 2020**  
-- **Introduction to Python Programming**, UNSAM – **November 2020**  
-- **The Research Article in English: How to Write in Science**, UNC – **July 2020**  
-- **Quantum Mechanical Methods Based on DFT**, UNC – **July 2018**  
-- **Molecular Biophysics of Proteins**, UNC – **April 2018**  
-- **International Summer School: Quantum Chemistry**, PREFALC – **July 2015**  
-- **Advanced Spectroscopy Methods**, University of Quindío – **June 2015**  
+- _November 2023_ Image Processing in Python, FAMAF-UNC
+- _November 2023_ Computer Vision with Python, FAMAF-UNC 
+- _November 2023_ Time Series Analysis in Python, FAMAF-UNC 
+- _October 2021_ Protein Structure and Dynamics, FCQ-UNC 
+- _September 2020_ Introduction to Data Science in Python, University of Michigan (Coursera)  
+- _November 2020_ Introduction to Python Programming, UNSAM
+- _July 2020_ The Research Article in English: How to Write in Science, UNC
+- _July 2018_ Quantum Mechanical Methods Based on DFT, UNC
+- _April 2018_ Molecular Biophysics of Proteins, UNC
+- _July 2015_ International Summer School: Quantum Chemistry, PREFALC
+- _June 2015_ Advanced Spectroscopy Methods, University of Quindío 
