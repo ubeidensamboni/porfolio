@@ -62,14 +62,11 @@ _June 2017 – December 2017_ **Science Teacher**  [Instituto Técnico Diversifi
 - **Bioinformatics**: Molecular dynamics simulation, GROMACS, Visual Molecular Dynamics, NGL View, CHARMM-GUI, MDAnalysis, Gaussian 16, NBO 6.0, High-Performance Computing.  
 - **Data Science**: Collect, interpret, organize, and present complex datasets; conducted PCA for dimensionality reduction and evaluated linear separability of the target feature; developed supervised learning models.  
 
----
-
 ## Languages & IT Skills  
 
 **Languages:** Spanish (native) and English (proficient).  
 
 **IT Skills:** Python, Bash, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, JupyterLab, Google Colab, Conda, LaTeX, Linux, Windows OS, GitHub, Fiji-ImageJ, Inkscape, GIMP, Word, Excel, PowerPoint, DarkTable, Mendeley, Overleaf.  
-
 
 ## Professional Skills  
 
@@ -83,30 +80,17 @@ _June 2017 – December 2017_ **Science Teacher**  [Instituto Técnico Diversifi
 - **Attention to Detail**: Maintained accurate record-keeping of experiments; used checklists to organize my work and ensure timely completion.  
 
 
+## Scholarships & Awards  
 
+### Fellowships  
+- _2021–2024_ **End of PhD Fellowship (3 years)** – CONICET, Argentina *Wrote research proposal independently*
+- _2021–2023_ **Scholarship-Loan** – COLFUTURO, Colombia  *Awarded additional PhD funding and travel/living expenses. Wrote and secured award independently* 
+- _2018–2021_ **Doctoral Fellowship (3 years)** – FONCYT, Argentina  
 
-## Fellowships and Rewards
-
-- **2024:** Outstanding doctoral dissertation.  
-  Faculty of Chemistry, Universidad Nacional de Córdoba.
-
-- **2023:** IUPAB bursaries to attend international conferences: *"Physics of Life 2023"*.  
-  International Union for Pure and Applied Biophysics (IUPAB); Harrogate, Yorkshire, UK.
-
-- **2022:** IUPAB bursaries to attend international conferences: *"L Annual Meeting of the SAB"*.  
-  International Union for Pure and Applied Biophysics (IUPAB); Rosario, Argentina.
-
-- **2021 - 2024:** End of PhD Fellowships.  
-  National Scientific and Technical Research Council - CONICET; Argentina.
-
-- **2020 - 2023:** Scholarship-Loan COLFUTURO.  
-  National Colombian Government; Colombia.
-
-- **2018 - 2021:** Beginning PhD Fellowship.  
-  National Fund for Science and Technology - FONCyT; Argentina.
-
-- **2017:** Meritorious mention for the degree work: *"Some Structural, Electronic and Vibrational Properties of Phosphine Diphenyl[2-(2-Pyridylaminomethyl)-Phenyl] Oxide. A Quantum Chemical Study"*.  
-  Facultad de Ciencias Básicas y Tecnologías, Universidad del Quindío; Colombia.
+### Travel Awards  
+- _2023_ **IUPAB Travel Grant** – *Physics of Life 2023*, Harrogate, Yorkshire, UK  
+- _2022_ **IUPAB Travel Grant** – *L Annual Meeting of the Argentinean Biophysical Society (SAB)*, Argentina
+- _2018_ **SAB Travel Grant** – *XLVII Annual Meeting of the Argentinean Biophysical Society (SAB)*, Argentina
 
 
 ## International Meetings  
