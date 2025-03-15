@@ -98,23 +98,23 @@ During my career, I have participated in and delivered talks at a variety of int
 
 _November 2023_ LI Annual Meeting of the [Argentinean Biophysical Society (SAB)](https://biofisica.org.ar/), Córdoba, Argentina  
 _November 2023_ VII Meeting of [Young Initiative on Biophysics (YIB)](https://secretariayib.wixsite.com/ybiophysics), Córdoba, Argentina
-- _March 2023_ Physics of Life 2023, Harrogate, UK  
-- _November 2022_ L Annual Meeting of the [Argentinean Biophysical Society (SAB)](https://biofisica.org.ar/), Rosario, Argentina 
-- _November 2022_ VI Meeting of [Young Initiative on Biophysics (YIB)](https://secretariayib.wixsite.com/ybiophysics), Rosario, Argentina  
-- _December 2021_ IL Annual Meeting of the Argentinean Biophysical Society (SAB) (Virtual), Argentina  
-- _December 2018_ XLVII Annual Meeting of the [Argentinean Biophysical Society (SAB)](https://biofisica.org.ar/), La Plata, Argentina  
+_March 2023_ Physics of Life 2023, Harrogate, UK  
+_November 2022_ L Annual Meeting of the [Argentinean Biophysical Society (SAB)](https://biofisica.org.ar/), Rosario, Argentina 
+_November 2022_ VI Meeting of [Young Initiative on Biophysics (YIB)](https://secretariayib.wixsite.com/ybiophysics), Rosario, Argentina  
+_December 2021_ IL Annual Meeting of the Argentinean Biophysical Society (SAB) (Virtual), Argentina  
+_December 2018_ XLVII Annual Meeting of the [Argentinean Biophysical Society (SAB)](https://biofisica.org.ar/), La Plata, Argentina  
 
 
 ## Selected Courses and Training  
 
-- _November 2023_ Image Processing in Python, FAMAF-UNC
-- _November 2023_ Computer Vision with Python, FAMAF-UNC 
-- _November 2023_ Time Series Analysis in Python, FAMAF-UNC 
-- _October 2021_ Protein Structure and Dynamics, FCQ-UNC 
-- _September 2020_ Introduction to Data Science in Python, University of Michigan (Coursera)  
-- _November 2020_ Introduction to Python Programming, UNSAM
-- _July 2020_ The Research Article in English: How to Write in Science, UNC
-- _July 2018_ Quantum Mechanical Methods Based on DFT, UNC
-- _April 2018_ Molecular Biophysics of Proteins, UNC
-- _July 2015_ International Summer School: Quantum Chemistry, PREFALC
-- _June 2015_ Advanced Spectroscopy Methods, University of Quindío 
+_November 2023_ Image Processing in Python, FAMAF-UNC
+_November 2023_ Computer Vision with Python, FAMAF-UNC 
+_November 2023_ Time Series Analysis in Python, FAMAF-UNC 
+_October 2021_ Protein Structure and Dynamics, FCQ-UNC 
+_September 2020_ Introduction to Data Science in Python, University of Michigan (Coursera)  
+_November 2020_ Introduction to Python Programming, UNSAM
+_July 2020_ The Research Article in English: How to Write in Science, UNC
+_July 2018_ Quantum Mechanical Methods Based on DFT, UNC
+_April 2018_ Molecular Biophysics of Proteins, UNC
+_July 2015_ International Summer School: Quantum Chemistry, PREFALC
+_June 2015_ Advanced Spectroscopy Methods, University of Quindío 
