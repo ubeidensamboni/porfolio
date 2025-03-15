@@ -34,7 +34,7 @@ Supervisor: Prof. Christian D. Lorenz  [Department of Physics, King’s College 
 
 Supervisor: Prof. Martin Ulmschneider  [Department of Chemistry, King’s College London](https://www.kcl.ac.uk/people/martin-ulmschneider)  _January 2023 – June 2023_  
 
-Supervisor: Dr. Vanesa V. Galassi  [ICB, CONICET, Mendoza, Argentina](https://bicyt.conicet.gov.ar/fichas/p/vanesa-viviana-galassi)  _August 2022 – October 2022_  
+Supervisor: Dr. Vanesa V. Galassi  [ICB, CONICET](https://www.conicet.gov.ar/new_scp/detalle.php?id=37205&datos_academicos=yes&keywords=ICB), Mendoza  _August 2022 – October 2022_  
 
 
 ### Teaching
