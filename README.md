@@ -4,7 +4,7 @@
 
 ## Academic Studies
 
-2018-2024  **PhD in Chemistry**  [Universidad Nacional de Córdoba](https://www.fcq.unc.edu.ar/), Córdoba, Argentina  
+_2018-2024_  **PhD in Chemistry**  [Universidad Nacional de Córdoba](https://www.fcq.unc.edu.ar/), Córdoba, Argentina  
 
 **Thesis:** Effect of lipid environment in the conformation and orientation of the transmembrane-cytoplasmic segments of the integrin αIIbβ3.  
 
@@ -16,20 +16,27 @@ For my PhD, I investigated the interfacial properties of the transmembrane (TM) 
 - BAM imaging shows strong peptide self-association, disrupted in DPPC but stable in POPC mixtures.  
 - **Biological Relevance:** Lipid composition modulates TM integrin segment organization, potentially affecting integrin activation.  
 
-2023 **Diploma in Data Science**  Universidad Nacional de Córdoba, Córdoba, Argentina  
+_2023_ **Diploma in Data Science**  Universidad Nacional de Córdoba, Córdoba, Argentina  
 
-2017  **BSc. Chemistry**  [Universidad del Quindío](https://www.uniquindio.edu.co/), Armenia, Colombia  
+_2017_  **BSc. Chemistry**  [Universidad del Quindío](https://www.uniquindio.edu.co/), Armenia, Colombia  
 
 
 ## Work Experience
   **Research Internship** @ King's College London, UK
  <br> _02.2024 - 05.2024_  - Prof. Christian D. Lorenz | _01.2023 - 05.2023_ Prof. Martin Ulmschneider
  
-- Conceptualized and evaluated research projects involving molecular dynamics (MD) simulations, ensuring scientific rigor and feasibility.
-- Conducted MD simulations utilizing high-performance computing clusters to generate accurate and reproducible results.
-- Processed and analyzed complex datasets efficiently using advanced Python scripting and automation tools.
-- Designed and presented visually compelling graphs and tables to effectively communicate findings during internal lab meetings.
-- Authored comprehensive reports summarizing simulation outcomes, analyses, and key insights for stakeholders.
+_2024, 2023 & 2022_  **King’s College London**, London, UK | **Universidad Nacional de Cuyo**, Mendoza, Argentina  
+ 
+- Led research projects on molecular dynamics (MD) simulations, ensuring feasibility and scientific rigor.  
+- Carried out MD simulations on high-performance clusters, delivering accurate results for research.  
+- Substantially enhanced data processing efficiency through strategic Python scripting, significantly reducing timelines.  
+- Authored detailed reports, translating simulation outcomes into actionable insights for stakeholders.  
+
+**Supervisor: Prof. Christian D. Lorenz**  [Department of Physics, King’s College London](https://nms.kcl.ac.uk/lorenz.lab/wp/?page_id=306)  **Duration:** February 2024 – May 2024  
+
+**Supervisor: Prof. Martin Ulmschneider**  [Department of Chemistry, King’s College London](https://www.kcl.ac.uk/people/martin-ulmschneider)  **Duration:** January 2023 – June 2023  
+
+**Supervisor: Dr. Vanesa V. Galassi**  [ICB, CONICET, Mendoza, Argentina](https://bicyt.conicet.gov.ar/fichas/p/vanesa-viviana-galassi)  **Duration:** August 2022 – October 2022  
 
 
 **Assistant Teacher** @ Faculty of Chemistry, Universidad Nacional de Córdoba, Argentina
