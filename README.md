@@ -85,9 +85,9 @@ _June 2017 – December 2017_ **Science Teacher**  [Instituto Técnico Diversifi
 
 ## Languages & IT Skills  
 
-**Languages:** Spanish (native) and English (proficient).  
+**Languages:** Spanish (native) and English (proficient)
 
-**IT Skills:** Python, Bash, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, JupyterLab, Google Colab, Conda, LaTeX, Linux, Windows OS, GitHub, Fiji-ImageJ, Inkscape, GIMP, Word, Excel, PowerPoint, DarkTable, Mendeley, Overleaf.  
+**IT Skills:** Python, Bash, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, JupyterLab, Google Colab, Conda, LaTeX, Linux, Windows OS, GitHub, Fiji-ImageJ, Inkscape, GIMP, Word, Excel, PowerPoint, DarkTable, Mendeley, Overleaf 
 
 
 ## Scholarships & Awards  
