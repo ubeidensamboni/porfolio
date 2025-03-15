@@ -54,6 +54,16 @@ _June 2017 – December 2017_ **Science Teacher**  [Instituto Técnico Diversifi
 - Led an interactive lab session that fostered hands-on learning and critical thinking.  
 - Developed interactive teaching materials, aligning with modern educational practices.  
 
+
+## Publications  
+
+- **Cifuentes Samboni$^*$, Ubeiden**; Berrio V. L. Felipe; Cuenú C. Fernando; García R. Alejandro; Lorenz Christian D.; Sánchez L. Alberto$^*$. OPPh$_3$py: Synthesis, Molecular Structure, Reactivity, NBO and Nonlinear Optical Analysis of a Phosphine Oxide. *J. Phys. Chem. C*. _(Submitted under review)_  
+
+- **Cifuentes Samboni, Ubeiden**; Godino Agustina; Barra José L.; Oliveira Rafael; Montich Guillermo G$^*$. Interactions of Integrin $\alpha$IIb$\beta$3 Transmembrane-Cytoplasmic Segments with Lipids in Langmuir Monolayers. Surface, Mechanical and Morphological Properties. *Langmuir*. _(Submitted under review)_  
+
+- **Cifuentes Samboni, Ubeiden**; Ulmschneider Martin; Lorenz Christian D.; Montich Guillermo G.; Galassi Vanesa V$^*$. Orientation and Lipid-Peptide Interactions of Integrin $\alpha$IIb$\beta$3 Transmembrane Domains in Lipid Bilayers by Molecular Dynamics Simulations. _(In preparation)_  
+
+
 ## Research Skills  
 
 - **Molecular Biology**: DNA, RNA, protein extraction from cell lines; interpretation of DNA sequencing chromatographs; bacterial lysis; production of recombinant proteins.  
@@ -61,12 +71,6 @@ _June 2017 – December 2017_ **Science Teacher**  [Instituto Técnico Diversifi
 - **Chromatographic**: ÄKTA, FPLC, size exclusion, HPLC, SDS-PAGE electrophoresis.  
 - **Bioinformatics**: Molecular dynamics simulation, GROMACS, Visual Molecular Dynamics, NGL View, CHARMM-GUI, MDAnalysis, Gaussian 16, NBO 6.0, High-Performance Computing.  
 - **Data Science**: Collect, interpret, organize, and present complex datasets; conducted PCA for dimensionality reduction and evaluated linear separability of the target feature; developed supervised learning models.  
-
-## Languages & IT Skills  
-
-**Languages:** Spanish (native) and English (proficient).  
-
-**IT Skills:** Python, Bash, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, JupyterLab, Google Colab, Conda, LaTeX, Linux, Windows OS, GitHub, Fiji-ImageJ, Inkscape, GIMP, Word, Excel, PowerPoint, DarkTable, Mendeley, Overleaf.  
 
 ## Professional Skills  
 
@@ -78,6 +82,12 @@ _June 2017 – December 2017_ **Science Teacher**  [Instituto Técnico Diversifi
 - **Independence**: Took full responsibility for leading my research projects; identified new avenues for research, designed projects, and wrote proposals independently; secured competitive funding to support my own projects; developed experimental assays that were new for the lab.  
 - **Networking**: Developed a robust international network of collaborators and renowned speakers, facilitating future partnerships and knowledge sharing.  
 - **Attention to Detail**: Maintained accurate record-keeping of experiments; used checklists to organize my work and ensure timely completion.  
+
+## Languages & IT Skills  
+
+**Languages:** Spanish (native) and English (proficient).  
+
+**IT Skills:** Python, Bash, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, JupyterLab, Google Colab, Conda, LaTeX, Linux, Windows OS, GitHub, Fiji-ImageJ, Inkscape, GIMP, Word, Excel, PowerPoint, DarkTable, Mendeley, Overleaf.  
 
 
 ## Scholarships & Awards  
