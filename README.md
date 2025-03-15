@@ -107,14 +107,25 @@ _December 2018_ XLVII Annual Meeting of the [Argentinean Biophysical Society (SA
 
 ## Selected Courses and Training  
 
-_November 2023_ Image Processing in Python, FAMAF-UNC
-_November 2023_ Computer Vision with Python, FAMAF-UNC 
-_November 2023_ Time Series Analysis in Python, FAMAF-UNC 
-_October 2021_ Protein Structure and Dynamics, FCQ-UNC 
+_November 2023_ Image Processing in Python, FAMAF-UNC 
+
+_November 2023_ Computer Vision with Python, FAMAF-UNC  
+
+_November 2023_ Time Series Analysis in Python, FAMAF-UNC  
+
+_October 2021_ Protein Structure and Dynamics, FCQ-UNC  
+
 _September 2020_ Introduction to Data Science in Python, University of Michigan (Coursera)  
-_November 2020_ Introduction to Python Programming, UNSAM
-_July 2020_ The Research Article in English: How to Write in Science, UNC
-_July 2018_ Quantum Mechanical Methods Based on DFT, UNC
-_April 2018_ Molecular Biophysics of Proteins, UNC
-_July 2015_ International Summer School: Quantum Chemistry, PREFALC
-_June 2015_ Advanced Spectroscopy Methods, University of Quindío 
+
+_November 2020_ Introduction to Python Programming, UNSAM  
+
+_July 2020_ The Research Article in English: How to Write in Science, UNC  
+
+_July 2018_ Quantum Mechanical Methods Based on DFT, UNC  
+
+_April 2018_ Molecular Biophysics of Proteins, UNC  
+
+_July 2015_ International Summer School: Quantum Chemistry, PREFALC  
+
+_June 2015_ Advanced Spectroscopy Methods, University of Quindío  
+ 
