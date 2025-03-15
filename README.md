@@ -12,7 +12,7 @@ For my PhD, I investigated the interfacial properties of the transmembrane (TM) 
 - Peptides condense lipids in POPC/POPG but expand DPPC, influenced by lipid composition.  
 - Peptides alter lipid compressibility, preventing DPPC phase transition and inducing fluid-like behavior.  
 - BAM imaging shows strong peptide self-association, disrupted in DPPC but stable in POPC mixtures.  
-- **Biological Relevance:** Lipid composition modulates TM integrin segment organization, potentially affecting integrin activation.  
+- _Biological Relevance_: Lipid composition modulates TM integrin segment organization, potentially affecting integrin activation.  
 
 _2023_ **Diploma in Data Science**  Universidad Nacional de Córdoba, Córdoba, Argentina  
 
@@ -36,26 +36,22 @@ Supervisor: Prof. Martin Ulmschneider  [Department of Chemistry, King’s Colleg
 
 Supervisor: Dr. Vanesa V. Galassi  [ICB, CONICET, Mendoza, Argentina](https://bicyt.conicet.gov.ar/fichas/p/vanesa-viviana-galassi)  **Duration:** August 2022 – October 2022  
 
+**Teaching Experience**
 
-**Assistant Teacher** @ Faculty of Chemistry, Universidad Nacional de Córdoba, Argentina
-<br>_08.2019 - 04.2024_
+### Assistant Teacher  
+[Faculty of Chemical Sciences, National University of Córdoba](https://www.fcq.unc.edu.ar/), Córdoba, Argentina  **Duration:** August 2019 – April 2024  
 
-- Delivery of agreed package of teaching activities to a high standard. These activities may include seminars, classes, tutorials, lab sessions, other small group work to develop student skills, demonstration for experiments/techniques in lab-based science and computing.
-- Monitor and interact with students during the entire lab session. This means circulating throughout the lab section visually monitoring student performances. Grade homework, lab reports, quizzes, and exams according to the directions provided by the course instructor. Collaborated with large and diverse team.
+- Designed and conducted a successful experiment that actively engaged students, fostering hands-on learning and critical thinking.  
+- Led lab experiments, providing real-time guidance and offering personalized support.  
+- Provided constructive feedback and maintained a supportive environment for open discussion, ensuring fair and consistent assessment grading.  
+- Enhanced course content and methodology while fostering a collaborative team environment.  
 
-**Science Teacher** @ Fundación Caicedo González Riopaila Castilla | Instituto Técnico Diversificado Grajales, Colombia
-<br>_06.2017 - 12.2017_
+### Science Teacher  [Instituto Técnico Diversificado Grajales](https://itdg.edu.co/), Valle, Colombia   **Duration:** June 2017 – December 2017  
 
-
-- To prepare and deliver new teaching material for multiple classes in chemistry, physics, and biology. This has involved designing and implementing engaging and interactive lessons that cater to the diverse learning needs of my students. I have also worked closely with my colleagues to ensure that our teaching methods are aligned with the latest educational research and best practices.
-
-
-## Internships
-
-- **08.2022 - 09.2022**  
-  Instituto Interdisciplinario de las Ciencias, Universidad Nacional de Cuyo, Mendoza, Argentina  
-  Supervisor: Dr. Vanesa V. Galassi ([vanegalassi@gmail.com](mailto:vanegalassi@gmail.com))
-
+- Established a fully functional lab, ensuring safety and optimizing learning.  
+- Designed and delivered chemistry and biology lessons to enhance student learning.  
+- Led an interactive lab session that fostered hands-on learning and critical thinking.  
+- Developed interactive teaching materials, aligning with modern educational practices.  
 
 
 ## Fellowships and Rewards
