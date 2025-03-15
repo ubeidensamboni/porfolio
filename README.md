@@ -36,17 +36,14 @@ Supervisor: Prof. Martin Ulmschneider  [Department of Chemistry, King’s Colleg
 
 Supervisor: Dr. Vanesa V. Galassi  [ICB, CONICET, Mendoza, Argentina](https://bicyt.conicet.gov.ar/fichas/p/vanesa-viviana-galassi)  **Duration:** August 2022 – October 2022  
 
-**Teaching Experience**
-
-### Assistant Teacher  
-[Faculty of Chemical Sciences, National University of Córdoba](https://www.fcq.unc.edu.ar/), Córdoba, Argentina  **Duration:** August 2019 – April 2024  
+**Assistant Teacher** [Faculty of Chemical Sciences, National University of Córdoba](https://www.fcq.unc.edu.ar/), Córdoba, Argentina  **Duration:** August 2019 – April 2024  
 
 - Designed and conducted a successful experiment that actively engaged students, fostering hands-on learning and critical thinking.  
 - Led lab experiments, providing real-time guidance and offering personalized support.  
 - Provided constructive feedback and maintained a supportive environment for open discussion, ensuring fair and consistent assessment grading.  
 - Enhanced course content and methodology while fostering a collaborative team environment.  
 
-### Science Teacher  [Instituto Técnico Diversificado Grajales](https://itdg.edu.co/), Valle, Colombia   **Duration:** June 2017 – December 2017  
+**Science Teacher**  [Instituto Técnico Diversificado Grajales](https://itdg.edu.co/), Valle, Colombia   **Duration:** June 2017 – December 2017  
 
 - Established a fully functional lab, ensuring safety and optimizing learning.  
 - Designed and delivered chemistry and biology lessons to enhance student learning.  
