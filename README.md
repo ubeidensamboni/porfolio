@@ -30,11 +30,11 @@ _2024, 2023 & 2022_  **King’s College London**, London, UK | **Universidad Nac
 - Substantially enhanced data processing efficiency through strategic Python scripting, significantly reducing timelines.  
 - Authored detailed reports, translating simulation outcomes into actionable insights for stakeholders.  
 
-Supervisor: Prof. Christian D. Lorenz  [Department of Physics, King’s College London](https://nms.kcl.ac.uk/lorenz.lab/wp/?page_id=306)  **Duration:** February 2024 – May 2024  
+Supervisor: Prof. Christian D. Lorenz  [Department of Physics, King’s College London](https://nms.kcl.ac.uk/lorenz.lab/wp/?page_id=306)  _February 2024 – May 2024_ 
 
-Supervisor: Prof. Martin Ulmschneider  [Department of Chemistry, King’s College London](https://www.kcl.ac.uk/people/martin-ulmschneider)  **Duration:** January 2023 – June 2023  
+Supervisor: Prof. Martin Ulmschneider  [Department of Chemistry, King’s College London](https://www.kcl.ac.uk/people/martin-ulmschneider)  _January 2023 – June 2023_  
 
-Supervisor: Dr. Vanesa V. Galassi  [ICB, CONICET, Mendoza, Argentina](https://bicyt.conicet.gov.ar/fichas/p/vanesa-viviana-galassi)  **Duration:** August 2022 – October 2022  
+Supervisor: Dr. Vanesa V. Galassi  [ICB, CONICET, Mendoza, Argentina](https://bicyt.conicet.gov.ar/fichas/p/vanesa-viviana-galassi)  _August 2022 – October 2022_  
 
 
 ### Teaching
