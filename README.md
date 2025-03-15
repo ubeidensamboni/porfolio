@@ -4,7 +4,7 @@
 
 ## Academic Studies
 
-2018-2024  **PhD in Chemistry**  [Faculty of Chemical Sciences, National University of Córdoba](https://www.fcq.unc.edu.ar/), Córdoba, Argentina  
+2018-2024  **PhD in Chemistry**  [Universidad Nacional de Córdoba](https://www.fcq.unc.edu.ar/), Córdoba, Argentina  
 
 **Thesis:** Effect of lipid environment in the conformation and orientation of the transmembrane-cytoplasmic segments of the integrin αIIbβ3.  
 
@@ -16,14 +16,9 @@ For my PhD, I investigated the interfacial properties of the transmembrane (TM) 
 - BAM imaging shows strong peptide self-association, disrupted in DPPC but stable in POPC mixtures.  
 - **Biological Relevance:** Lipid composition modulates TM integrin segment organization, potentially affecting integrin activation.  
 
----
+2023 **Diploma in Data Science**  Universidad Nacional de Córdoba, Córdoba, Argentina  
 
-2023 **Diploma in Data Science**  
-National University of Córdoba, Córdoba, Argentina  
-
----
-
-2017  **BSc. Chemistry**  [University of Quindío](https://www.uniquindio.edu.co/), Armenia, Colombia  
+2017  **BSc. Chemistry**  [Universidad del Quindío](https://www.uniquindio.edu.co/), Armenia, Colombia  
 
 
 ## Work Experience
