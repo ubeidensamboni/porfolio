@@ -21,7 +21,7 @@ _2017_  **BSc. Chemistry**  [Universidad del Quindío](https://www.uniquindio.ed
 
 ## Work Experience
 
-  **Research Internship** 
+  ### Research Internship
  
 _2024, 2023 & 2022_  **King’s College London**, London, UK | **Universidad Nacional de Cuyo**, Mendoza, Argentina  
  
@@ -36,6 +36,8 @@ Supervisor: Prof. Martin Ulmschneider  [Department of Chemistry, King’s Colleg
 
 Supervisor: Dr. Vanesa V. Galassi  [ICB, CONICET, Mendoza, Argentina](https://bicyt.conicet.gov.ar/fichas/p/vanesa-viviana-galassi)  **Duration:** August 2022 – October 2022  
 
+
+### Teaching
 
 _August 2019 – April 2024_ **Assistant Teacher** [Faculty of Chemical Sciences, National University of Córdoba](https://www.fcq.unc.edu.ar/), Córdoba, Argentina
 
