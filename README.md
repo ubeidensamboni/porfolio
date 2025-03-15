@@ -1,12 +1,30 @@
 # Chemistry Scientist
 
 ## Education
-- **2024**      PhD in Chemistry - Universidad Nacional de Córdoba, Argentina
-  <br>Research activity focuses on: Experimental and Computational Biophysics
-- **2023**      Data Science and Machine Learning	- Universidad Nacional de Córdoba, Argentina
-  
-- **2017**      B.S. in Chemistry - Universidad del Quindío, Colombia
-  <br>Research activity focuses on: Computational Quantum Chemistry - DFT Calculations
+
+**PhD in Chemistry**  
+[FCQ-UNC](https://www.fcq.unc.edu.ar/), Córdoba, Argentina  
+*2018-2024*  
+
+**Thesis:** Effect of lipid environment in the conformation and orientation of the transmembrane-cytoplasmic segments of the integrin αIIbβ3.  
+
+For my PhD, I investigated the interfacial properties of the transmembrane (TM) and intracellular (IC) domains of αIIbβ3 integrin and their interactions with lipid monolayers. My study represents a key advance in the understanding of integrin-lipid interactions, which are critical for cell adhesion and signaling. My findings demonstrate that:  
+
+- Integrin TM-IC segments form stable monolayers, adopting vertical or tilted orientations under compression.  
+- Peptides condense lipids in POPC/POPG but expand DPPC, influenced by lipid composition.  
+- Peptides alter lipid compressibility, preventing DPPC phase transition and inducing fluid-like behavior.  
+- BAM imaging shows strong peptide self-association, disrupted in DPPC but stable in POPC mixtures.  
+- **Biological Relevance:** Lipid composition modulates TM integrin segment organization, potentially affecting integrin activation.  
+
+---
+
+**Diploma in Data Science**  
+UNC, Córdoba, Argentina  
+*2023*  
+
+**BSc. Chemistry**  
+[UQ](https://www.uniquindio.edu.co/), Armenia, Colombia  
+*2017*  
 
 ## Work Experience
   **Research Internship** @ King's College London, UK
