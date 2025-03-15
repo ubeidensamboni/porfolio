@@ -96,8 +96,8 @@ _June 2017 – December 2017_ **Science Teacher**  [Instituto Técnico Diversifi
 
 During my career, I have participated in and delivered talks at a variety of international scientific conferences, some with hundreds of participants. A selection is reported here:  
 
-- _November 2023_ LI Annual Meeting of the [Argentinean Biophysical Society (SAB)](https://biofisica.org.ar/), Córdoba, Argentina  
-- _November 2023_ VII Meeting of [Young Initiative on Biophysics (YIB)](https://secretariayib.wixsite.com/ybiophysics), Córdoba, Argentina
+_November 2023_ LI Annual Meeting of the [Argentinean Biophysical Society (SAB)](https://biofisica.org.ar/), Córdoba, Argentina  
+_November 2023_ VII Meeting of [Young Initiative on Biophysics (YIB)](https://secretariayib.wixsite.com/ybiophysics), Córdoba, Argentina
 - _March 2023_ Physics of Life 2023, Harrogate, UK  
 - _November 2022_ L Annual Meeting of the [Argentinean Biophysical Society (SAB)](https://biofisica.org.ar/), Rosario, Argentina 
 - _November 2022_ VI Meeting of [Young Initiative on Biophysics (YIB)](https://secretariayib.wixsite.com/ybiophysics), Rosario, Argentina  
