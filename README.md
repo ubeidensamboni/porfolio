@@ -2,8 +2,6 @@
 
 ## Education
 
-## Academic Studies
-
 _2018-2024_  **PhD in Chemistry**  [Universidad Nacional de Córdoba](https://www.fcq.unc.edu.ar/), Córdoba, Argentina  
 
 **Thesis:** Effect of lipid environment in the conformation and orientation of the transmembrane-cytoplasmic segments of the integrin αIIbβ3.  
@@ -22,8 +20,8 @@ _2017_  **BSc. Chemistry**  [Universidad del Quindío](https://www.uniquindio.ed
 
 
 ## Work Experience
-  **Research Internship** @ King's College London, UK
- <br> _02.2024 - 05.2024_  - Prof. Christian D. Lorenz | _01.2023 - 05.2023_ Prof. Martin Ulmschneider
+
+  **Research Internship** 
  
 _2024, 2023 & 2022_  **King’s College London**, London, UK | **Universidad Nacional de Cuyo**, Mendoza, Argentina  
  
@@ -32,11 +30,11 @@ _2024, 2023 & 2022_  **King’s College London**, London, UK | **Universidad Nac
 - Substantially enhanced data processing efficiency through strategic Python scripting, significantly reducing timelines.  
 - Authored detailed reports, translating simulation outcomes into actionable insights for stakeholders.  
 
-**Supervisor: Prof. Christian D. Lorenz**  [Department of Physics, King’s College London](https://nms.kcl.ac.uk/lorenz.lab/wp/?page_id=306)  **Duration:** February 2024 – May 2024  
+Supervisor: Prof. Christian D. Lorenz  [Department of Physics, King’s College London](https://nms.kcl.ac.uk/lorenz.lab/wp/?page_id=306)  **Duration:** February 2024 – May 2024  
 
-**Supervisor: Prof. Martin Ulmschneider**  [Department of Chemistry, King’s College London](https://www.kcl.ac.uk/people/martin-ulmschneider)  **Duration:** January 2023 – June 2023  
+Supervisor: Prof. Martin Ulmschneider  [Department of Chemistry, King’s College London](https://www.kcl.ac.uk/people/martin-ulmschneider)  **Duration:** January 2023 – June 2023  
 
-**Supervisor: Dr. Vanesa V. Galassi**  [ICB, CONICET, Mendoza, Argentina](https://bicyt.conicet.gov.ar/fichas/p/vanesa-viviana-galassi)  **Duration:** August 2022 – October 2022  
+Supervisor: Dr. Vanesa V. Galassi  [ICB, CONICET, Mendoza, Argentina](https://bicyt.conicet.gov.ar/fichas/p/vanesa-viviana-galassi)  **Duration:** August 2022 – October 2022  
 
 
 **Assistant Teacher** @ Faculty of Chemistry, Universidad Nacional de Córdoba, Argentina
