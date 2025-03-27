@@ -82,10 +82,11 @@ _June 2017 – December 2017_ **Science Teacher**  [Instituto Técnico Diversifi
 ## Research Skills  
 
 - **Molecular Biology**: DNA, RNA, protein extraction from cell lines; interpretation of DNA sequencing chromatographs; bacterial lysis; production of recombinant proteins.  
-- **Biophysics**: Preparation of multilamellar vesicles and unilamellar vesicles, Brewster angle microscopy, differential scanning calorimetry, Langmuir monolayers, time-correlated single photon counting, dynamic light scattering, fluorescence, UV-Vis and ATR-FTIR spectroscopy, silver protein staining.  
+- **Biophysics**: Preparation of multilamellar vesicles and unilamellar vesicles, Brewster angle microscopy, differential scanning calorimetry, freeze drying lyophilization, Langmuir monolayers, time-correlated single photon counting, dynamic light scattering, fluorescence, UV-Vis and ATR-FTIR spectroscopy, silver protein staining.  
 - **Chromatographic**: ÄKTA, FPLC, size exclusion, HPLC, SDS-PAGE electrophoresis.  
 - **Bioinformatics**: Molecular dynamics simulation, GROMACS, Visual Molecular Dynamics, NGL View, CHARMM-GUI, MDAnalysis, Gaussian 16, NBO 6.0, High-Performance Computing.  
-- **Data Science**: Collect, interpret, organize, and present complex datasets; conducted PCA for dimensionality reduction and evaluated linear separability of the target feature; developed supervised learning models.  
+- **Data Science**: Collect, interpret, organize, and present complex datasets; conducted PCA for dimensionality reduction and evaluated linear separability of the target feature; developed supervised learning models.
+- **Statistics**: understanding descriptive statistics (mean, median, mode, standard deviation), inferential statistics (hypothesis testing and confidence intervals, p-values), data visualization techniques; regression analysis, probability distributions 
 
 ## Professional Skills  
 
@@ -102,7 +103,7 @@ _June 2017 – December 2017_ **Science Teacher**  [Instituto Técnico Diversifi
 
 **Languages:** Spanish (native) and English (proficient)
 
-**IT Skills:** Python, Bash, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, JupyterLab, Google Colab, Conda, LaTeX, Linux, Windows OS, GitHub, Fiji-ImageJ, Inkscape, GIMP, Word, Excel, PowerPoint, DarkTable, Mendeley, Overleaf 
+**IT Skills:** Python, Bash, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, JupyterLab, Google Colab, Conda, LaTeX, Markdown, Linux, Windows OS, GitHub, Fiji-ImageJ, Inkscape, GIMP, Word, Excel, PowerPoint, DarkTable, Mendeley, Overleaf 
 
 
 ## Scholarships & Awards  
