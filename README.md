@@ -1,4 +1,4 @@
-# Chemistry Scientist
+# Protein Scientist
 
 ## Education
 
@@ -35,6 +35,21 @@ Supervisor: Prof. Christian D. Lorenz  [Department of Physics, King’s College 
 Supervisor: Prof. Martin Ulmschneider  [Department of Chemistry, King’s College London](https://www.kcl.ac.uk/people/martin-ulmschneider)  _January 2023 – June 2023_  
 
 Supervisor: Dr. Vanesa V. Galassi  [ICB, CONICET](https://www.conicet.gov.ar/new_scp/detalle.php?id=37205&datos_academicos=yes&keywords=ICB), Mendoza  _August 2022 – October 2022_  
+
+
+### Protein Analysis Specialist 
+_2022–2024_  at [LaProBio Transfer Center](https://ciquibic.org.ar/laprobio/), UNC, Argentina  
+
+Conducted advanced protein analysis for biotechnology companies, specializing in structural and thermodynamic  
+characterization. Optimized methodologies to enhance data accuracy and improve workflow efficiency. Key achievements and responsibilities:
+
+- Prepared high-quality protein samples, including buffer exchange, dialysis, membrane filtration, and precise protein concentration determination.  
+- Analyzed lipid-protein and protein-protein interactions, contributing to structural and functional protein studies.  
+- Assessed thermal stability of proteins using differential scanning calorimetry to evaluate folding properties and stability under varying conditions.  
+- Conducted structural protein analysis via circular dichroism and Fourier transform infrared spectroscopy, providing insights into protein conformation and secondary structure.  
+- Generated detailed technical reports and data interpretations, ensuring accuracy and compliance under managerial supervision and approval.  
+
+
 
 
 ### Teaching
