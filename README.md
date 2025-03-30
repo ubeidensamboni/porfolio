@@ -21,7 +21,7 @@ _2017_  **BSc. Chemistry**  [Universidad del Quindío](https://www.uniquindio.ed
 
 ## Work Experience
 
-  ### Research Internship
+### Research Internship
  
 _2024, 2023 & 2022_  **King’s College London**, London, UK | **Universidad Nacional de Cuyo**, Mendoza, Argentina  
  
