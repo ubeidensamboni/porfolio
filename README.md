@@ -1,10 +1,9 @@
 # Protein Scientist
 
-<hr>
 
 ## Education
 
-<hr>
+<div class="hr-line"></div>
 
 _2018-2024_  **PhD in Chemistry**  [Universidad Nacional de Córdoba](https://www.fcq.unc.edu.ar/), Córdoba, Argentina  
 
