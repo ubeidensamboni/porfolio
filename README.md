@@ -73,11 +73,11 @@ _June 2017 – December 2017_ **Science Teacher**  [Instituto Técnico Diversifi
 
 ## Publications  
 
-- **Cifuentes Samboni, Ubeiden**; Berrio V. L. Felipe; Cuenú C. Fernando; García R. Alejandro; Lorenz Christian D.; Sánchez L. Alberto. OPPh<sub>3</sub>py: Synthesis, Molecular Structure, Reactivity, NBO and Nonlinear Optical Analysis of a Phosphine Oxide. *J. Phys. Chem. C*. _(Submitted under review)_  
+**Cifuentes Samboni, Ubeiden**; Berrio V. L. Felipe; Cuenú C. Fernando; García R. Alejandro; Lorenz Christian D.; Sánchez L. Alberto. OPPh<sub>3</sub>py: Synthesis, Molecular Structure, Reactivity, NBO and Nonlinear Optical Analysis of a Phosphine Oxide. *J. Phys. Chem. C*. _(Submitted under review)_  
 
-- **Cifuentes Samboni, Ubeiden**; Godino Agustina; Barra José L.; Oliveira Rafael; Montich Guillermo G. Interactions of Integrin αIIbβ3 Transmembrane-Cytoplasmic Segments with Lipids in Langmuir Monolayers. Surface, Mechanical and Morphological Properties. *Langmuir*. _(Submitted under review)_  
+**Cifuentes Samboni, Ubeiden**; Godino Agustina; Barra José L.; Oliveira Rafael; Montich Guillermo G. Interactions of Integrin αIIbβ3 Transmembrane-Cytoplasmic Segments with Lipids in Langmuir Monolayers. Surface, Mechanical and Morphological Properties. *Langmuir*. _(Submitted under review)_  
 
-- **Cifuentes Samboni, Ubeiden**; Ulmschneider Martin; Lorenz Christian D.; Montich Guillermo G.; Galassi Vanesa V. Orientation and Lipid-Peptide Interactions of Integrin αIIbβ3 Transmembrane Domains in Lipid Bilayers by Molecular Dynamics Simulations. _(In preparation)_  
+**Cifuentes Samboni, Ubeiden**; Ulmschneider Martin; Lorenz Christian D.; Montich Guillermo G.; Galassi Vanesa V. Orientation and Lipid-Peptide Interactions of Integrin αIIbβ3 Transmembrane Domains in Lipid Bilayers by Molecular Dynamics Simulations. _(In preparation)_  
 
 
 ## Research Skills  
