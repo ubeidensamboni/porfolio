@@ -1,6 +1,12 @@
+<center>
+  
 # Protein Scientist
 
+</center>
+
+
 ## Education
+---
 
 _2018-2024_  **PhD in Chemistry**  [Universidad Nacional de Córdoba](https://www.fcq.unc.edu.ar/), Córdoba, Argentina  
 
@@ -20,6 +26,7 @@ _2017_  **BSc. Chemistry**  [Universidad del Quindío](https://www.uniquindio.ed
 
 
 ## Work Experience
+---
 
 ### Research Internship 
  
@@ -72,6 +79,7 @@ _June 2017 – December 2017_ **Science Teacher**  [Instituto Técnico Diversifi
 
 
 ## Publications  
+---
 
 **Cifuentes Samboni, Ubeiden**; Berrio V. L. Felipe; Cuenú C. Fernando; García R. Alejandro; Lorenz Christian D.; Sánchez L. Alberto. OPPh<sub>3</sub>py: Synthesis, Molecular Structure, Reactivity, NBO and Nonlinear Optical Analysis of a Phosphine Oxide. *J. Phys. Chem. C*. _(Submitted under review)_  
 
@@ -79,8 +87,9 @@ _June 2017 – December 2017_ **Science Teacher**  [Instituto Técnico Diversifi
 
 **Cifuentes Samboni, Ubeiden**; Ulmschneider Martin; Lorenz Christian D.; Montich Guillermo G.; Galassi Vanesa V. Orientation and Lipid-Peptide Interactions of Integrin αIIbβ3 Transmembrane Domains in Lipid Bilayers by Molecular Dynamics Simulations. _(In preparation)_  
 
-
-## Research Skills  
+## Abilities & Skills
+---
+### Research Skills  
 
 **Molecular Biology**: DNA, RNA, protein extraction from cell lines; interpretation of DNA sequencing chromatographs; bacterial lysis; production of recombinant proteins. 
 
@@ -94,7 +103,7 @@ _June 2017 – December 2017_ **Science Teacher**  [Instituto Técnico Diversifi
 
 **Statistics**: understanding descriptive statistics (mean, median, mode, standard deviation), inferential statistics (hypothesis testing and confidence intervals, p-values), data visualization techniques; regression analysis, probability distributions 
 
-## Soft Skills
+### Soft Skills
 
 **Communication**: Presented regular oral lab meetings, departmental seminars, and conferences; chaired meetings.  
 
@@ -112,14 +121,15 @@ _June 2017 – December 2017_ **Science Teacher**  [Instituto Técnico Diversifi
 
 **Attention to Detail**: Maintained accurate record-keeping of experiments; used checklists to organize my work and ensure timely completion.  
 
-## Languages & IT Skills  
+### Languages & IT Skills  
 
 **Languages:** Spanish (native) and English (fluent)
 
 **IT Skills:** Python, Bash, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, JupyterLab, Google Colab, Conda, LaTeX, Markdown, Linux, Windows OS, GitHub, Fiji-ImageJ, Inkscape, GIMP, Word, Excel, PowerPoint, DarkTable, Mendeley, Overleaf 
 
 
-## Scholarships & Awards  
+## Scholarships & Awards 
+---
 
 ### Fellowships  
 
@@ -137,7 +147,8 @@ _2018–2021_ Doctoral Fellowship (3 years) – FONCYT, Argentina
  
  _2018_ SAB Travel Grant – XLVII Annual Meeting of the Argentinean Biophysical Society (SAB), Argentina
 
-## International Meetings  
+## International Meetings 
+---
 
 During my career, I have participated in and delivered talks at a variety of international scientific conferences, some with hundreds of participants. A selection is reported here:  
 
@@ -156,7 +167,8 @@ _December 2021_ IL Annual Meeting of the Argentinean Biophysical Society (SAB) (
 _December 2018_ XLVII Annual Meeting of the [Argentinean Biophysical Society (SAB)](https://biofisica.org.ar/), La Plata, Argentina  
 
 
-## Selected Courses & Training  
+## Selected Courses & Training 
+---
 
 _November 2023_ Image Processing in Python, FAMAF-UNC 
 
