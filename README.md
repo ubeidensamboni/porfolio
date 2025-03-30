@@ -1,7 +1,10 @@
-<h1 style="text-align: center;">Protein Scientist</h1>
+Protein Scientist
+
+<hr>
 
 ## Education
----
+
+<hr>
 
 _2018-2024_  **PhD in Chemistry**  [Universidad Nacional de Córdoba](https://www.fcq.unc.edu.ar/), Córdoba, Argentina  
 
