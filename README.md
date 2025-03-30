@@ -1,9 +1,4 @@
-<center>
-  
-# Protein Scientist
-
-</center>
-
+<h1 style="text-align: center;">Protein Scientist</h1>
 
 ## Education
 ---
