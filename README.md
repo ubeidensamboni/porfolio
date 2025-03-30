@@ -82,22 +82,34 @@ _June 2017 – December 2017_ **Science Teacher**  [Instituto Técnico Diversifi
 
 ## Research Skills  
 
-**Molecular Biology**: DNA, RNA, protein extraction from cell lines; interpretation of DNA sequencing chromatographs; bacterial lysis; production of recombinant proteins.  
+**Molecular Biology**: DNA, RNA, protein extraction from cell lines; interpretation of DNA sequencing chromatographs; bacterial lysis; production of recombinant proteins. 
+
 **Biophysics**: Preparation of multilamellar vesicles and unilamellar vesicles, Brewster angle microscopy, differential scanning calorimetry, freeze drying lyophilization, Langmuir monolayers, time-correlated single photon counting, dynamic light scattering, fluorescence, UV-Vis and ATR-FTIR spectroscopy, silver protein staining.  
-**Chromatographic**: ÄKTA, FPLC, size exclusion, HPLC, SDS-PAGE electrophoresis.  
+
+**Chromatographic**: ÄKTA, FPLC, size exclusion, HPLC, SDS-PAGE electrophoresis. 
+
 **Bioinformatics**: Molecular dynamics simulation, GROMACS, Visual Molecular Dynamics, NGL View, CHARMM-GUI, MDAnalysis, Gaussian 16, NBO 6.0, High-Performance Computing.  
+
 **Data Science**: Collect, interpret, organize, and present complex datasets; conducted PCA for dimensionality reduction and evaluated linear separability of the target feature; developed supervised learning models.
+
 **Statistics**: understanding descriptive statistics (mean, median, mode, standard deviation), inferential statistics (hypothesis testing and confidence intervals, p-values), data visualization techniques; regression analysis, probability distributions 
 
 ## Soft Skills
 
 **Communication**: Presented regular oral lab meetings, departmental seminars, and conferences; chaired meetings.  
+
 **Leadership & Management**: As leader of [Young Initiative on Biophysics (YIB)](https://secretariayib.wixsite.com/ybiophysics) for two years, strategically coordinated international scientific events, cultivated interdisciplinary collaborations, and secured crucial national and international funding to support the initiative (e.g., [IUPAB](https://iupab.org/sponsorship-policy/), [SAB](https://biofisica.org.ar/)). Planned, led, and managed my own research projects; coached rotation students and was involved in their day-to-day supervision; developed problem-solving ability (experiment troubleshooting).  
+
 **Teamwork**: Fostered successful internal and external collaborations resulting in publications during PhD; actively contributed to the biophysics teacher course team; led and coordinated a diverse 20-member team in YIB, promoting interdisciplinary cooperation and achieving shared goals.  
-- **Organisation**: Organised a conference for over 100 delegates, including administrative and logistic tasks together with comprehensive catering arrangements.  
-**Time Management**: Successfully balanced PhD research with teaching responsibilities for undergraduate students; efficiently planned and managed YIB’s annual activity calendar, ensuring timely execution and meeting deadlines.  
+
+**Organisation**: Organised a conference for over 100 delegates, including administrative and logistic tasks together with comprehensive catering arrangements.
+ 
+**Time Management**: Successfully balanced PhD research with teaching responsibilities for undergraduate students; efficiently planned and managed YIB’s annual activity calendar, ensuring timely execution and meeting deadlines.
+  
 **Independence**: Took full responsibility for leading my research projects; identified new avenues for research, designed projects, and wrote proposals independently; secured competitive funding to support my own projects; developed experimental assays that were new for the lab.  
+
 **Networking**: Developed a robust international network of collaborators and renowned speakers, facilitating future partnerships and knowledge sharing.  
+
 **Attention to Detail**: Maintained accurate record-keeping of experiments; used checklists to organize my work and ensure timely completion.  
 
 ## Languages & IT Skills  
