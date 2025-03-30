@@ -9,3 +9,11 @@ title: Ubeiden C. Samboni
 #show_downloads: true
 theme: jekyll-theme-minimal
 ---
+
+.hr-line {
+    border: none;
+    height: 2px;
+    background-color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
