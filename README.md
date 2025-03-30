@@ -139,7 +139,7 @@ _December 2021_ IL Annual Meeting of the Argentinean Biophysical Society (SAB) (
 _December 2018_ XLVII Annual Meeting of the [Argentinean Biophysical Society (SAB)](https://biofisica.org.ar/), La Plata, Argentina  
 
 
-## Selected Courses and Training  
+## Selected Courses & Training  
 
 _November 2023_ Image Processing in Python, FAMAF-UNC 
 
