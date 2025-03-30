@@ -38,6 +38,7 @@ Supervisor: Dr. Vanesa V. Galassi  [ICB, CONICET](https://www.conicet.gov.ar/new
 
 
 ### Protein Analysis Specialist 
+
 _2022–2024_  at [LaProBio Transfer Center](https://ciquibic.org.ar/laprobio/), UNC, Argentina  
 
 Conducted advanced protein analysis for biotechnology companies, specializing in structural and thermodynamic  
@@ -88,7 +89,7 @@ _June 2017 – December 2017_ **Science Teacher**  [Instituto Técnico Diversifi
 - **Data Science**: Collect, interpret, organize, and present complex datasets; conducted PCA for dimensionality reduction and evaluated linear separability of the target feature; developed supervised learning models.
 - **Statistics**: understanding descriptive statistics (mean, median, mode, standard deviation), inferential statistics (hypothesis testing and confidence intervals, p-values), data visualization techniques; regression analysis, probability distributions 
 
-## Professional Skills  
+## Soft Skills
 
 - **Communication**: Presented regular oral lab meetings, departmental seminars, and conferences; chaired meetings.  
 - **Leadership & Management**: As leader of [Young Initiative on Biophysics (YIB)](https://secretariayib.wixsite.com/ybiophysics) for two years, strategically coordinated international scientific events, cultivated interdisciplinary collaborations, and secured crucial national and international funding to support the initiative (e.g., [IUPAB](https://iupab.org/sponsorship-policy/), [SAB](https://biofisica.org.ar/)). Planned, led, and managed my own research projects; coached rotation students and was involved in their day-to-day supervision; developed problem-solving ability (experiment troubleshooting).  
@@ -114,6 +115,7 @@ _June 2017 – December 2017_ **Science Teacher**  [Instituto Técnico Diversifi
 - _2018–2021_ Doctoral Fellowship (3 years) – FONCYT, Argentina  
 
 ### Travel Awards  
+
 - _2023_ IUPAB Travel Grant – Physics of Life 2023, Harrogate, Yorkshire, UK  
 - _2022_ IUPAB Travel Grant – L Annual Meeting of the Argentinean Biophysical Society (SAB), Argentina
 - _2018_ SAB Travel Grant – XLVII Annual Meeting of the Argentinean Biophysical Society (SAB), Argentina
