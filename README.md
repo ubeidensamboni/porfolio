@@ -1,8 +1,6 @@
 # Ubeiden Samboni
 
 🔗 [linkedin.com/in/usamboni](https://linkedin.com/in/usamboni)  
-🌐 [Portfolio](https://ubeidensamboni.github.io/porfolio/)
-
 ---
 
 ## 🎓 Education
