@@ -1,9 +1,6 @@
-# Ubeiden C. Samboni
+# Ubeiden Samboni
 
-📧 [ubeidensamboni@gmail.com](mailto:ubeidensamboni@gmail.com)  
-📞 +44 074 6967 2006  
 🔗 [linkedin.com/in/usamboni](https://linkedin.com/in/usamboni)  
-🔬 [ciquibic.org.ar](https://ciquibic.org.ar)  
 🌐 [Portfolio](https://ubeidensamboni.github.io/porfolio/)
 
 ---
