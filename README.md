@@ -88,25 +88,25 @@ UNC, Argentina
 
 ## 🧪 Research Skills
 
-- **Molecular Biology**: DNA/RNA extraction, SDS-PAGE, recombinant proteins  
-- **Biophysics**: DSC, BAM, Langmuir monolayers, spectroscopy  
-- **Analytical Chemistry**: HPLC, ÄKTA, titration, GLP  
-- **Bioinformatics**: GROMACS, VMD, CHARMM-GUI, MDAnalysis, Gaussian  
-- **Data Science**: PCA, supervised learning, complex dataset analysis  
+- **Molecular biology**: DNA, RNA,  protein extraction from cell lines; interpretation of DNA sequencing chromatographs; bacterial lysis; production of recombinant proteins; SDS-PAGE electrophoresis; silver protein staining
+- **Biophysics**: preparation of multilamellar vesicles and unilamellar vesicles; Brewster angle microscopy; differential scanning calorimetry; Langmuir monolayers; time-correlated single photon counting; dynamic light scattering; fluorescence, UV-Vis and ATR-FTIR spectroscopy
+- **Analytical chemistry**: ÄKTA, size exclusion, and HPLC chromatography; titration; sampling and sample preparation; ability to interpret data and document findings accurately; good laboratory practices
+- **Bioinformatics**: gromacs, VMD, NGL View, CHARMM-GUI, MDAnalysis, Gaussian 16, NBO 6.0, HPC
+- **Data science**: collected, interpreted, organized, and presented complex datasets; conducted PCA for dimensionality reduction and evaluated linear separability of the target feature;  developed supervised learning models
 
 ---
 
 ## 🔧 Transferable Skills
 
-- **Communication**: Conferences, seminars, chairing sessions  
-- **Leadership & Management**: YIB coordination, event planning, grant writing  
-- **Mentoring**: Recruited and coached students  
-- **Teamwork**: Interdisciplinary collaboration, course development  
-- **Organization**: Conference planning, multitasking research & teaching  
-- **Time Management**: Balanced PhD, teaching, and YIB leadership  
-- **Independence**: Designed and led own research, secured funding  
-- **Networking**: Built international collaborations and partnerships  
-- **Attention to Detail**: Experimental records, systematic work checklists  
+- **Communication**: Presented regular oral lab meetings, departmental seminars and conferences; chaired meetings
+- **Leadership & Management**: as leader of \href{https://secretariayib.wixsite.com/ybiophysics}{\yib} for two years, strategically coordinated international scientific events, cultivated interdisciplinary collaborations; secured crucial national and international funding (e.g. \href{https://iupab.org/sponsorship-policy/}{IUPAB}, \href{https://biofisica.org.ar/}{SAB}); planned, led and managed my own research projects; developed problem solving ability (experiments trouble-shooting)
+- **Mentoring**: Led the recruitment of 12 new team members for the YIB project and mentored them to success; coaching rotation students through effective day-to-day supervision
+- **Teamwork**: Fostered successful internal and external collaborations resulting in publications during PhD; actively contributed to the biophysics teaching team by improving course plans and methodologies; planned, promoted, and executed engaging scientific events with a 20-member board, ensuring high attendee satisfaction and learning outcomes during the conference
+- **Organisation**: organised conference for over 100 delegates, including administrative and logistic tasks together with comprehensive catering arrangements; prioritized tasks and experiments based on urgency and importance
+- **Time management**: successfully balanced PhD research with teaching responsibilities for undergraduate students; efficiently planned and managed YIB’s annual activity calendar, while ensuring timely execution and meeting deadlines
+- **Independence**: full responsibility to lead my research projects; identified new avenues for research, designed the projects and wrote the proposals independently; secured competitive funding to support my own projects; developed experimental assays that were new for the lab
+- **Networking**: developed a robust international network of collaborators and renowned speakers, facilitating future partnerships and knowledge sharing
+- **Attention to detail**: accurate record keeping of experiments; use of checklists to organize my work and make sure that it is completed in a timely manner
 
 ---
 
