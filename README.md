@@ -55,9 +55,9 @@ UNC, Argentina
 
 ## 📚 Publications
 
-- **Cifuentes Samboni, U.** et al. [Title]. *Langmuir* **2025** *41* (32), 21252-21264 
-- **Cifuentes Samboni, U.\*** et al. [Title]. *RSC Advances*. (Submitted)  
-- **Cifuentes Samboni, U.** et al. [Title]. *In preparation (MD simulations)*
+- **Cifuentes Samboni, U.** et al. *Langmuir* **2025** *41* (32), 21252-21264 
+- **Cifuentes Samboni, U.\*** et al. *RSC Advances*. (Submitted)  
+- **Cifuentes Samboni, U.** et al. *In preparation (MD simulations)*
 
 ---
 
