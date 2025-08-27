@@ -55,8 +55,8 @@ UNC, Argentina
 
 ## 📚 Publications
 
-- **Cifuentes Samboni, U.\*** et al. [Title]. *J. Phys. Chem. C*. (Resubmitted)  
-- **Cifuentes Samboni, U.** et al. [Title]. *Langmuir*. (Submitted)  
+- **Cifuentes Samboni, U.\*** et al. [Title]. *RSC Advances*. (Submitted)  
+- **Cifuentes Samboni, U.** et al. [Title]. *Langmuir* **2025** *41* (32), 21252-21264  
 - **Cifuentes Samboni, U.** et al. [Title]. *In preparation (MD simulations)*
 
 ---
