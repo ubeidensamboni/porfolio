@@ -1,19 +1,10 @@
-#  title: Ubeiden Samboni
-#  logo: imag/avatar.png
-# # #description: text below image
-#  show_downloads: true
-#  theme: jekyll-theme-minimal
----
-# title: Ubeiden C. Samboni
-#logo: imag/avatar.png
-#show_downloads: true
+title: "Ubeiden Samboni"
+description: ""
 theme: jekyll-theme-minimal
----
 
-.hr-line {
-    border: none;
-    height: 2px;
-    background-color: black;
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
+# Disable sidebar (we’ll override layout)
+show_downloads: false
+
+# Include custom files
+include:
+  - assets/css/style.css
