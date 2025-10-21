@@ -103,15 +103,14 @@ UNC, Argentina
 
 ## 🔧 Transferable Skills
 
-- **Communication**: Delivered presentations at lab meetings, seminars, and international conferences; chaired scientific meetings, fostering clear and effective dialogue.  
-- **Leadership & Management**: Served as leader of [YIB](https://secretariayib.wixsite.com/ybiophysics) for two years, coordinating international scientific events and cultivating interdisciplinary collaborations; secured national and international funding (e.g., [IUPAB](https://iupab.org/sponsorship-policy/), [SAB](https://biofisica.org.ar/)); planned, led, and managed independent research projects; developed strong problem-solving skills through experimental troubleshooting.  
-- **Mentoring**: Recruited and successfully guided 12 new team members for YIB projects; supervised and coached rotation students through effective day-to-day mentorship.  
-- **Teamwork & Collaboration**: Built successful internal and external collaborations resulting in publications; contributed to biophysics course development and teaching; planned and executed scientific events with a 20-member board, ensuring high attendee satisfaction and learning outcomes.  
-- **Organisation**: Coordinated conferences for over 100 delegates, handling administrative, logistic, and catering arrangements; prioritized tasks and experiments according to urgency and importance.  
-- **Time Management**: Balanced PhD research with undergraduate teaching duties; efficiently planned and managed YIB’s annual activity calendar, ensuring timely execution of all initiatives.  
-- **Independence**: Led research projects autonomously; identified new research avenues, designed studies, and wrote proposals independently; secured competitive funding and developed novel experimental assays for the lab.  
-- **Networking**: Built a robust international network of collaborators and renowned speakers, facilitating partnerships and knowledge exchange.  
-- **Attention to Detail**: Maintained accurate experimental records; implemented checklists to organize work and ensure timely completion of tasks.
+- **Communication**: Presented at seminars, lab meetings, and international conferences; chaired scientific meetings.  
+- **Leadership & Management**: Led [YIB](https://secretariayib.wixsite.com/ybiophysics) for 2 years; coordinated international events; secured national and international funding; managed independent research projects.  
+- **Mentoring**: Recruited and guided 12 team members; supervised rotation students with effective day-to-day coaching.  
+- **Teamwork & Collaboration**: Built successful collaborations resulting in publications; contributed to teaching and course development; organized scientific events with a 20-member board.  
+- **Organisation & Time Management**: Planned conferences for 100+ delegates and YIB’s annual calendar; prioritized tasks and balanced PhD research with teaching.  
+- **Independence**: Designed and led research projects; wrote proposals and secured funding; developed novel experimental assays.  
+- **Networking**: Established a robust international network of collaborators and speakers.  
+- **Attention to Detail**: Maintained accurate records and used checklists to ensure timely completion of tasks.
 
 ---
 
