@@ -53,9 +53,10 @@ Led successful cross-disciplinary projects, demonstrating effective leadership a
 **Assistant Teacher (Biological Chemistry & Biophysics)**: UNC, Argentina  
 *2019–2024*
 
-- Designed and conducted lab experiments  
-- Provided student guidance and feedback  
-- Helped improve course content and teamwork in teaching
+- Designed and conducted a successful experiment that actively engaged students, fostering hands-on learning and critical thinking  
+- Led lab experiments, providing real-time guidance offering personalized support  
+- Provided constructive feedback and maintained a supportive environment for open discussion, ensuring fair and consistent assessment grading
+- Enhanced course content and methodology while fostering a collaborative team environment
 
 ---
 
