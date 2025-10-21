@@ -13,7 +13,7 @@ Led successful cross-disciplinary projects, demonstrating effective leadership a
 
 ---
 
-## 🎓 Education
+## Education
 
 | Year | Degree & Institution |
 |------|----------------------|
@@ -23,7 +23,7 @@ Led successful cross-disciplinary projects, demonstrating effective leadership a
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 **Protein Scientist**: [Biophysical Chemistry and Structural Biochemistry, UNC](https://ciquibic.org.ar/biofisicoquimica-y-bioquimica-estructural/)  
 *2018–2024*
@@ -61,7 +61,7 @@ Led successful cross-disciplinary projects, demonstrating effective leadership a
 
 ---
 
-## 📚 Publications
+## Publications
 
 - **Cifuentes Samboni, U.** et al. *Langmuir* **2025** *41* (32), 21252-21264  [DOI: 10.1021/acs.langmuir.5c01320](https://pubs.acs.org/doi/10.1021/acs.langmuir.5c01320)
 - **Cifuentes Samboni, U.\*** et al. *RSC Advances*. (Submitted)  
@@ -69,7 +69,7 @@ Led successful cross-disciplinary projects, demonstrating effective leadership a
 
 ---
 
-## 🏅 Scholarships & Awards
+## Scholarships & Awards
 
 ### Fellowships
 
@@ -89,7 +89,7 @@ Led successful cross-disciplinary projects, demonstrating effective leadership a
 
 ---
 
-## 🧪 Research Skills
+## Research Skills
 
 - **Molecular biology**: DNA, RNA,  protein extraction from cell lines; interpretation of DNA sequencing chromatographs; bacterial lysis; production of recombinant proteins; SDS-PAGE electrophoresis; silver protein staining
 - **Biophysics**: preparation of multilamellar vesicles and unilamellar vesicles; Brewster angle microscopy; differential scanning calorimetry; Langmuir monolayers; time-correlated single photon counting; dynamic light scattering; fluorescence, UV-Vis and ATR-FTIR spectroscopy
@@ -99,7 +99,7 @@ Led successful cross-disciplinary projects, demonstrating effective leadership a
 
 ---
 
-## 🔧 Transferable Skills
+## Transferable Skills
 
 - **Communication**: Presented at seminars, lab meetings, and international conferences; chaired scientific meetings  
 - **Leadership & Management**: Led [YIB](https://secretariayib.wixsite.com/ybiophysics) for 2 years; coordinated international events; secured national and international funding; managed independent research projects  
@@ -112,7 +112,7 @@ Led successful cross-disciplinary projects, demonstrating effective leadership a
 
 ---
 
-## 🌍 Languages & IT Skills
+## Languages & IT Skills
 
 - **Languages**: Spanish (native), English (fluent)  
 - **IT Skills**:  Python, Bash, Pandas, NumPy, Scikit-learn, TensorFlow  
@@ -121,7 +121,7 @@ Led successful cross-disciplinary projects, demonstrating effective leadership a
 
 ---
 
-## 🌐 International Meetings
+## International Meetings
 
 - 2023  LI Annual Meeting – SAB, Córdoba, Argentina
 - 2023  VII YIB Meeting – Córdoba, Argentina
@@ -133,12 +133,10 @@ Led successful cross-disciplinary projects, demonstrating effective leadership a
 
 ---
 
-## 🎓 Selected Courses & Training
+## Selected Courses & Training
 
 - 2021 Protein Structure and Dynamics – FCQ-UNC  
 - 2020 Intro to Python Programming – UNSAM  
 - 2020 Scientific Writing in English – UNC  
 - 2018 Quantum Mechanical Methods (DFT) – UNC  
 - 2018 Molecular Biophysics of Proteins – UNC
-
----
