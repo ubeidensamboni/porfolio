@@ -53,14 +53,23 @@ th {
 
 /* ========== Divider line (hr) ========== */
 /* Thicker blue line matching header color */
+/* Default hr style — used for all horizontal lines */
 hr {
   border: none;
-  height: 4px; /* thickness */
-  width: 95%; /* optional narrower width */
-  margin: 1.5em auto;
-  background-color: #1e3a8a; /* same blue as your h1 */
-  border-radius: 2px; /* smooth edges */
+  height: 2px; /* thin line */
+  width: 100%;
+  margin: 1.5em 0;
+  background-color: #1e3a8a; /* same blue as headings */
+  border-radius: 2px;
 }
+
+/* Only the very first hr on the page (under your name) */
+hr:first-of-type {
+  height: 4px; /* thicker */
+  width: 95%;  /* slightly narrower */
+  margin: 1.5em auto;
+}
+
 
 /* ========== Lists ========== */
 /* Adjust top spacing for bullet lists */
