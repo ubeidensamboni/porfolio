@@ -103,14 +103,14 @@ UNC, Argentina
 
 ## 🔧 Transferable Skills
 
-- **Communication**: Presented at seminars, lab meetings, and international conferences; chaired scientific meetings.  
-- **Leadership & Management**: Led [YIB](https://secretariayib.wixsite.com/ybiophysics) for 2 years; coordinated international events; secured national and international funding; managed independent research projects.  
-- **Mentoring**: Recruited and guided 12 team members; supervised rotation students with effective day-to-day coaching.  
-- **Teamwork & Collaboration**: Built successful collaborations resulting in publications; contributed to teaching and course development; organized scientific events with a 20-member board.  
-- **Organisation & Time Management**: Planned conferences for 100+ delegates and YIB’s annual calendar; prioritized tasks and balanced PhD research with teaching.  
-- **Independence**: Designed and led research projects; wrote proposals and secured funding; developed novel experimental assays.  
-- **Networking**: Established a robust international network of collaborators and speakers.  
-- **Attention to Detail**: Maintained accurate records and used checklists to ensure timely completion of tasks.
+- **Communication**: Presented at seminars, lab meetings, and international conferences; chaired scientific meetings  
+- **Leadership & Management**: Led [YIB](https://secretariayib.wixsite.com/ybiophysics) for 2 years; coordinated international events; secured national and international funding; managed independent research projects  
+- **Mentoring**: Recruited and guided 12 team members; supervised rotation students with effective day-to-day coaching  
+- **Teamwork & Collaboration**: Built successful collaborations resulting in publications; contributed to teaching and course development; organized scientific events with a 20-member board  
+- **Organisation & Time Management**: Planned conferences for 100+ delegates and YIB’s annual calendar; prioritized tasks and balanced PhD research with teaching  
+- **Independence**: Designed and led research projects; wrote proposals and secured funding; developed novel experimental assays  
+- **Networking**: Established a robust international network of collaborators and speakers  
+- **Attention to Detail**: Maintained accurate records and used checklists to ensure timely completion of tasks
 
 ---
 
@@ -126,14 +126,14 @@ UNC, Argentina
 ## 🌐 International Meetings
 
 | Year | Event |
-|------|-------|
-| 2023 | LI Annual Meeting – SAB, Córdoba, Argentina |
-| 2023 | VII YIB Meeting – Córdoba, Argentina |
-| 2023 | Physics of Life – Harrogate, UK |
-| 2022 | L SAB Meeting – Rosario, Argentina |
-| 2022 | VI YIB Meeting – Rosario, Argentina |
-| 2021 | IL SAB Meeting (Virtual) – Argentina |
-| 2018 | XLVII SAB Meeting – La Plata, Argentina |
+
+- 2023  LI Annual Meeting – SAB, Córdoba, Argentina
+- 2023  VII YIB Meeting – Córdoba, Argentina
+- 2023  Physics of Life – Harrogate, UK
+| 2022  L SAB Meeting – Rosario, Argentina
+- 2022  VI YIB Meeting – Rosario, Argentina
+- 2021  IL SAB Meeting (Virtual) – Argentina
+- 2018  XLVII SAB Meeting – La Plata, Argentina
 
 ---
 
