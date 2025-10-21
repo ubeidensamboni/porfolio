@@ -38,17 +38,18 @@ Led successful cross-disciplinary projects, demonstrating effective leadership a
 **Research Internship**: [King’s College London](https://www.kcl.ac.uk/) • [UNCUYO](https://www.uncuyo.edu.ar/)  
 *2022 • 2023 • 2024*
 
-- Led MD simulation projects with high-performance computing  
-- Automated data processing with Python  
-- Delivered reports translating simulation results into insights
+- Led research projects on molecular dynamics (MD) simulations, ensured feasibility and maintained scientific rigor  
+- Carried out MD simulations on high-performance clusters, delivering accurate results for research  
+- Substantially enhanced data processing efficiency through strategic python scripting, significantly reducing timelines
+- Authored detailed reports, translating simulation outcomes into actionable insights for stakeholders
 
-**Protein Analysis Specialist**: [LaProBio Transfer Center, UNC](https://ciquibic.org.ar/laprobio/)  
+**Protein Formulation**: [LaProBio Transfer Center, UNC](https://ciquibic.org.ar/laprobio/)  
 *2022–2024*
 
-- Protein prep: buffer exchange, dialysis, filtration  
-- Structural & thermodynamic characterization  
-- Thermal stability analysis using DSC  
-- CD and FTIR for secondary structure analysis
+- Prepared high-quality protein samples, including buffer exchange, dialysis, membrane filtration, and precise protein concentration determination  
+- Analyzed lipid-protein, protein-protein interactions, contributing to structural and functional protein studies 
+- Assessed thermal stability of proteins using differential scanning calorimetry to evaluate folding properties and stability under varying conditions  
+- Conducted structural protein analysis via circular dichroism and Fourier transform infrared spectroscopy, providing insights into protein conformation and secondary structure
 
 **Assistant Teacher (Biological Chemistry & Biophysics)**: UNC, Argentina  
 *2019–2024*
