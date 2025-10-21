@@ -35,8 +35,8 @@ Led successful cross-disciplinary projects, demonstrating effective leadership a
 - Improved expression methods with 60%+ yield gain  
 - Analyzed protein-lipid and protein-protein interactions via DSC, CD, FTIR, fluorescence, Langmuir monolayer, BAM
 
-**Research Internship**: [King’s College London](https://www.kcl.ac.uk/) | [UNCUYO](https://www.uncuyo.edu.ar/)  
-*2022 | 2023 | 2024*
+**Research Internship**: [King’s College London](https://www.kcl.ac.uk/) • [UNCUYO](https://www.uncuyo.edu.ar/)  
+*2022 • 2023 • 2024*
 
 - Led MD simulation projects with high-performance computing  
 - Automated data processing with Python  
