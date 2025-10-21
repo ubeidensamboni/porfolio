@@ -124,7 +124,7 @@ Led successful cross-disciplinary projects, demonstrating effective leadership a
 - 2023  LI Annual Meeting – SAB, Córdoba, Argentina
 - 2023  VII YIB Meeting – Córdoba, Argentina
 - 2023  Physics of Life – Harrogate, UK
-| 2022  L SAB Meeting – Rosario, Argentina
+- 2022  L SAB Meeting – Rosario, Argentina
 - 2022  VI YIB Meeting – Rosario, Argentina
 - 2021  IL SAB Meeting (Virtual) – Argentina
 - 2018  XLVII SAB Meeting – La Plata, Argentina
