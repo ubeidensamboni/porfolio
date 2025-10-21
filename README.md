@@ -125,8 +125,6 @@ UNC, Argentina
 
 ## 🌐 International Meetings
 
-| Year | Event |
-
 - 2023  LI Annual Meeting – SAB, Córdoba, Argentina
 - 2023  VII YIB Meeting – Córdoba, Argentina
 - 2023  Physics of Life – Harrogate, UK
