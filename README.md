@@ -73,19 +73,19 @@ Led successful cross-disciplinary projects, demonstrating effective leadership a
 
 ### Fellowships
 
-| Period | Award |
-|--------|-------|
-| 2021–2024 | PhD Fellowship – CONICET, Argentina |
-| 2021–2023 | Scholarship – COLFUTURO, Colombia |
-| 2018–2021 | Doctoral Fellowship – FONCYT, Argentina |
+2021–2024 | PhD Fellowship – CONICET, Argentina 
+
+2021–2023 | Scholarship – COLFUTURO, Colombia 
+
+2018–2021 | Doctoral Fellowship – FONCYT, Argentina 
 
 ### Travel Awards
 
-| Year | Event |
-|------|-------|
-| 2023 | IUPAB – Physics of Life, Harrogate, UK |
-| 2022 | IUPAB – L Annual Meeting of SAB, Argentina |
-| 2018 | SAB – XLVII Annual Meeting, Argentina |
+2023 | IUPAB – Physics of Life, Harrogate, UK
+
+2022 | IUPAB – L Annual Meeting of SAB, Argentina
+
+2018 | SAB – XLVII Annual Meeting, Argentina
 
 ---
 
