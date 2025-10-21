@@ -25,8 +25,7 @@ Led successful cross-disciplinary projects, demonstrating effective leadership a
 
 ## 💼 Work Experience
 
-### Protein Scientist  
-[Biophysical Chemistry and Structural Biochemistry, UNC](https://ciquibic.org.ar/biofisicoquimica-y-bioquimica-estructural/)  
+**Protein Scientist**: [Biophysical Chemistry and Structural Biochemistry, UNC](https://ciquibic.org.ar/biofisicoquimica-y-bioquimica-estructural/)  
 *2018–2024*
 
 - Led the establishment of a new research area focused on transmembrane proteins  
@@ -36,16 +35,14 @@ Led successful cross-disciplinary projects, demonstrating effective leadership a
 - Improved expression methods with 60%+ yield gain  
 - Analyzed protein-lipid and protein-protein interactions via DSC, CD, FTIR, fluorescence, Langmuir monolayer, BAM
 
-### Research Internship  
-[King’s College London](https://www.kcl.ac.uk/) | [UNCUYO](https://www.uncuyo.edu.ar/)  
+**Research Internship**: [King’s College London](https://www.kcl.ac.uk/) | [UNCUYO](https://www.uncuyo.edu.ar/)  
 *2022 | 2023 | 2024*
 
 - Led MD simulation projects with high-performance computing  
 - Automated data processing with Python  
 - Delivered reports translating simulation results into insights
 
-### Protein Analysis Specialist  
-[LaProBio Transfer Center, UNC](https://ciquibic.org.ar/laprobio/)  
+**Protein Analysis Specialist**: [LaProBio Transfer Center, UNC](https://ciquibic.org.ar/laprobio/)  
 *2022–2024*
 
 - Protein prep: buffer exchange, dialysis, filtration  
@@ -53,8 +50,7 @@ Led successful cross-disciplinary projects, demonstrating effective leadership a
 - Thermal stability analysis using DSC  
 - CD and FTIR for secondary structure analysis
 
-### Assistant Teacher (Biological Chemistry & Biophysics)  
-UNC, Argentina  
+**Assistant Teacher (Biological Chemistry & Biophysics)**: UNC, Argentina  
 *2019–2024*
 
 - Designed and conducted lab experiments  
