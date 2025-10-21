@@ -2,9 +2,8 @@
 
 <p align="center">
   <a href="mailto:ubeidensamboni@gmail.com"><img src="https://img.shields.io/badge/📧-ubeidensamboni@gmail.com-blue?style=flat-square"></a> •
-  <a href="tel:+4407469672006">📞 +44 074 6967 2006</a> •
-  <a href="https://linkedin.com/in/usamboni">🔗 linkedin.com/in/usamboni</a> •
-  📍 London
+   <a href="https://linkedin.com/in/usamboni">🔗 linkedin.com/in/usamboni</a> •
+  📍 London, UK
 </p>
 
 ---
