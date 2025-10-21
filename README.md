@@ -1,4 +1,4 @@
-<h1 align="center">Ubeiden C. Samboni</h1>
+<h1 align="center">Ubeiden Samboni</h1>
 
 <p align="center">
   <a href="mailto:ubeidensamboni@gmail.com"><img src="https://img.shields.io/badge/📧-ubeidensamboni@gmail.com-blue?style=flat-square"></a> •
