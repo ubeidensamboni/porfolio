@@ -10,7 +10,7 @@
 
 ---
 
-### **Protein Scientist**: 5+ years of experience in *Protein Biochemistry & Purification*. Proven track record of delivering results through analytical rigour, precision, and a strong commitment to excellence. Pioneered a research area on transmembrane proteins and optimised in-house protein production, realising cost savings of over **$2,000**.  
+**Protein Scientist**: 5+ years of experience in *Protein Biochemistry & Purification*. Proven track record of delivering results through analytical rigour, precision, and a strong commitment to excellence. Pioneered a research area on transmembrane proteins and optimised in-house protein production, realising cost savings of over **$2,000**.  
 Led successful cross-disciplinary projects, demonstrating effective leadership and strategic thinking. Dedicated to continuous improvement, scientific innovation, and driving value through collaboration.
 
 ---
