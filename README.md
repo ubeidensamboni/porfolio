@@ -2,9 +2,7 @@
 
 <p align="center">
   <a href="mailto:ubeidensamboni@gmail.com"><img src="https://img.shields.io/badge/📧-ubeidensamboni@gmail.com-blue?style=flat-square"></a> 
-   <a href="https://linkedin.com/in/usamboni">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
-  </a> 
+   <a href="https://linkedin.com/in/usamboni"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a> 
   📍 London, UK
 </p>
 
