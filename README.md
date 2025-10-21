@@ -112,6 +112,7 @@ UNC, Argentina
 - **Independence**: Led research projects autonomously; identified new research avenues, designed studies, and wrote proposals independently; secured competitive funding and developed novel experimental assays for the lab.  
 - **Networking**: Built a robust international network of collaborators and renowned speakers, facilitating partnerships and knowledge exchange.  
 - **Attention to Detail**: Maintained accurate experimental records; implemented checklists to organize work and ensure timely completion of tasks.
+
 ---
 
 ## 🌍 Languages & IT Skills
