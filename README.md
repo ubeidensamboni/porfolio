@@ -139,10 +139,10 @@ UNC, Argentina
 
 ## 🎓 Selected Courses & Training
 
-- Protein Structure and Dynamics – FCQ-UNC (2021)  
-- Intro to Python Programming – UNSAM (2020)  
-- Scientific Writing in English – UNC (2020)  
-- Quantum Mechanical Methods (DFT) – UNC (2018)  
-- Molecular Biophysics of Proteins – UNC (2018)
+- 2021 Protein Structure and Dynamics – FCQ-UNC  
+- 2020 Intro to Python Programming – UNSAM  
+- 2020 Scientific Writing in English – UNC  
+- 2018 Quantum Mechanical Methods (DFT) – UNC  
+- 2018 Molecular Biophysics of Proteins – UNC
 
 ---
