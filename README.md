@@ -1,6 +1,21 @@
-# Ubeiden Samboni
+<h1 align="center">Ubeiden C. Samboni</h1>
 
-🔗 [linkedin.com/in/usamboni](https://linkedin.com/in/usamboni)  
+<p align="center">
+  <a href="mailto:ubeidensamboni@gmail.com"><img src="https://img.shields.io/badge/📧-ubeidensamboni@gmail.com-blue?style=flat-square"></a> •
+  <a href="tel:+4407469672006">📞 +44 074 6967 2006</a> •
+  <a href="https://linkedin.com/in/usamboni">🔗 linkedin.com/in/usamboni</a> •
+  📍 London
+</p>
+
+---
+
+### **Protein Scientist**
+5+ years of experience in *Protein Biochemistry & Purification*. Proven track record of delivering results through analytical rigour, precision, and a strong commitment to excellence.  
+Pioneered a research area on transmembrane proteins and optimised in-house protein production, realising cost savings of over **$2,000**.  
+
+Led successful cross-disciplinary projects, demonstrating effective leadership and strategic thinking.  
+Dedicated to continuous improvement, scientific innovation, and driving value through collaboration.
+
 ---
 
 ## 🎓 Education
@@ -93,7 +108,7 @@ UNC, Argentina
 
 ## 🔧 Transferable Skills
 
-- **Communication**: Presented regular oral lab meetings, departmental seminars and conferences; chaired meetings
+- **Communication**: Presented regular oral lab meetings, seminars and conferences; chaired meetings
 - **Leadership & Management**: as leader of [YIB](https://secretariayib.wixsite.com/ybiophysics) for two years, strategically coordinated international scientific events, cultivated interdisciplinary collaborations; secured crucial national and international funding (e.g. [IUPAB](https://iupab.org/sponsorship-policy/), [SAB](https://biofisica.org.ar/)); planned, led and managed my own research projects; developed problem solving ability (experiments trouble-shooting)
 - **Mentoring**: Led the recruitment of 12 new team members for the YIB project and mentored them to success; coaching rotation students through effective day-to-day supervision
 - **Teamwork**: Fostered successful internal and external collaborations resulting in publications during PhD; actively contributed to the biophysics teaching team by improving course plans and methodologies; planned, promoted, and executed engaging scientific events with a 20-member board, ensuring high attendee satisfaction and learning outcomes during the conference
