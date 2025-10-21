@@ -31,7 +31,7 @@ Led successful cross-disciplinary projects, demonstrating effective leadership a
 [Biophysical Chemistry and Structural Biochemistry, UNC](https://ciquibic.org.ar/biofisicoquimica-y-bioquimica-estructural/)  
 *2018–2024*
 
-- Led establishment of a new research area on transmembrane proteins  
+- Led the establishment of a new research area focused on transmembrane proteins  
 - DNA cloning, *E. coli* transformation, recombinant expression  
 - Protein purification via SEC, ÄKTA, RP-HPLC (85% purity)  
 - Produced commercial enzyme, saving \$2,000+  
@@ -120,8 +120,7 @@ UNC, Argentina
 ## 🌍 Languages & IT Skills
 
 - **Languages**: Spanish (native), English (fluent)  
-- **IT Skills**:  
-  Python, Bash, Pandas, NumPy, Scikit-learn, TensorFlow  
+- **IT Skills**:  Python, Bash, Pandas, NumPy, Scikit-learn, TensorFlow  
   JupyterLab, Conda, GitHub, LaTeX, Linux, ImageJ, Inkscape, Mendeley  
   Word, Excel, PowerPoint, Overleaf  
 
