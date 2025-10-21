@@ -103,16 +103,15 @@ UNC, Argentina
 
 ## 🔧 Transferable Skills
 
-- **Communication**: Presented regular oral lab meetings, seminars and conferences; chaired meetings
-- **Leadership & Management**: as leader of [YIB](https://secretariayib.wixsite.com/ybiophysics) for two years, strategically coordinated international scientific events, cultivated interdisciplinary collaborations; secured crucial national and international funding (e.g. [IUPAB](https://iupab.org/sponsorship-policy/), [SAB](https://biofisica.org.ar/)); planned, led and managed my own research projects; developed problem solving ability (experiments trouble-shooting)
-- **Mentoring**: Led the recruitment of 12 new team members for the YIB project and mentored them to success; coaching rotation students through effective day-to-day supervision
-- **Teamwork**: Fostered successful internal and external collaborations resulting in publications during PhD; actively contributed to the biophysics teaching team by improving course plans and methodologies; planned, promoted, and executed engaging scientific events with a 20-member board, ensuring high attendee satisfaction and learning outcomes during the conference
-- **Organisation**: organised conference for over 100 delegates, including administrative and logistic tasks together with comprehensive catering arrangements; prioritized tasks and experiments based on urgency and importance
-- **Time management**: successfully balanced PhD research with teaching responsibilities for undergraduate students; efficiently planned and managed YIB’s annual activity calendar, while ensuring timely execution and meeting deadlines
-- **Independence**: full responsibility to lead my research projects; identified new avenues for research, designed the projects and wrote the proposals independently; secured competitive funding to support my own projects; developed experimental assays that were new for the lab
-- **Networking**: developed a robust international network of collaborators and renowned speakers, facilitating future partnerships and knowledge sharing
-- **Attention to detail**: accurate record keeping of experiments; use of checklists to organize my work and make sure that it is completed in a timely manner
-
+- **Communication**: Delivered presentations at lab meetings, seminars, and international conferences; chaired scientific meetings, fostering clear and effective dialogue.  
+- **Leadership & Management**: Served as leader of [YIB](https://secretariayib.wixsite.com/ybiophysics) for two years, coordinating international scientific events and cultivating interdisciplinary collaborations; secured national and international funding (e.g., [IUPAB](https://iupab.org/sponsorship-policy/), [SAB](https://biofisica.org.ar/)); planned, led, and managed independent research projects; developed strong problem-solving skills through experimental troubleshooting.  
+- **Mentoring**: Recruited and successfully guided 12 new team members for YIB projects; supervised and coached rotation students through effective day-to-day mentorship.  
+- **Teamwork & Collaboration**: Built successful internal and external collaborations resulting in publications; contributed to biophysics course development and teaching; planned and executed scientific events with a 20-member board, ensuring high attendee satisfaction and learning outcomes.  
+- **Organisation**: Coordinated conferences for over 100 delegates, handling administrative, logistic, and catering arrangements; prioritized tasks and experiments according to urgency and importance.  
+- **Time Management**: Balanced PhD research with undergraduate teaching duties; efficiently planned and managed YIB’s annual activity calendar, ensuring timely execution of all initiatives.  
+- **Independence**: Led research projects autonomously; identified new research avenues, designed studies, and wrote proposals independently; secured competitive funding and developed novel experimental assays for the lab.  
+- **Networking**: Built a robust international network of collaborators and renowned speakers, facilitating partnerships and knowledge exchange.  
+- **Attention to Detail**: Maintained accurate experimental records; implemented checklists to organize work and ensure timely completion of tasks.
 ---
 
 ## 🌍 Languages & IT Skills
