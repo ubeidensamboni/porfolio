@@ -64,7 +64,7 @@ Led successful cross-disciplinary projects, demonstrating effective leadership a
 ## Publications
 
 - **Cifuentes Samboni, U.** et al. *Langmuir* **2025** *41* (32), 21252-21264  [DOI: 10.1021/acs.langmuir.5c01320](https://pubs.acs.org/doi/10.1021/acs.langmuir.5c01320)
-- **Cifuentes Samboni, U.\*** et al. *R. Soc. Open Sci.*. (Accepted, for publication)  
+- **Cifuentes Samboni, U.\*** et al. *R. Soc. Open Sci.*. (Accepted for publication)  
 - **Cifuentes Samboni, U.** et al. *In preparation (MD simulations)*
 
 ---
