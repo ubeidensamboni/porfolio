@@ -19,7 +19,7 @@ Led successful cross-disciplinary projects, demonstrating effective leadership a
 
 2023  **Dip. in Data Science: Machine Learning**, UNC, Argentina 
 
-2017  **BSc in Chemistry**, [Universidad del Quindío (UQ)](https://www.uniquindio.edu.co/), Colombia 
+2017  **BSc (Hon) in Chemistry**, [Universidad del Quindío (UQ)](https://www.uniquindio.edu.co/), Colombia 
 
 ---
 
