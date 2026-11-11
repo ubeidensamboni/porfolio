@@ -73,11 +73,11 @@ Led successful cross-disciplinary projects, demonstrating effective leadership a
 
 ### Fellowships
 
-2021–2024  PhD Fellowship – CONICET, Argentina 
+2021–2024  | CONICET, Argentina: PhD Fellowship. Co-developed the research proposal
 
-2021–2023  Scholarship – COLFUTURO, Colombia 
+2021–2023  | COLFUTURO, Colombia: Scholarship. Independently developed and submitted the research proposal
 
-2018–2021  Doctoral Fellowship – FONCYT, Argentina 
+2018–2021  | FONCyT, Argentina: Doctoral Fellowship
 
 ### Travel Awards
 
@@ -86,6 +86,11 @@ Led successful cross-disciplinary projects, demonstrating effective leadership a
 2022  IUPAB – L Annual Meeting of SAB, Argentina
 
 2018  SAB – XLVII Annual Meeting, Argentina
+
+### Academic Awards
+2024 | Outstanding PhD Thesis Award, Universidad Nacional de Córdoba, Argentina.
+
+2017 | Meritorious BSc Chemistry Final Project, Universidad del Quindío, Colombia.
 
 ---
 
